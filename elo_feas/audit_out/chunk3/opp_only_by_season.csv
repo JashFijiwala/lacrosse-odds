@@ -1,0 +1,6 @@
+season,n_opp_only_teams,teams,games_involving,share_of_season_games,W_vs_modeled,L_vs_modeled,mean_margin_vs_modeled,distinct_opponents,season_single_sided_games,of_which_involve_opp_only,label
+2022,0,,0,0.0,0,0,,0,0,0,"diagnostic, no re-selection"
+2023,3,Hobart; St. Andrews; Wabash,15,0.026737967914438502,5,10,-2.6,14,15,15,"diagnostic, no re-selection"
+2024,2,Hobart; Le Moyne,22,0.03859649122807018,6,16,-3.3636363636363638,22,22,22,"diagnostic, no re-selection"
+2025,4,Hobart; Iona; Le Moyne; Mercyhurst,42,0.10268948655256724,12,30,-4.595238095238095,31,42,42,"diagnostic, no re-selection"
+2026,0,,0,0.0,0,0,,0,0,0,"diagnostic, no re-selection"

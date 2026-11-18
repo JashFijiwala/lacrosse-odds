@@ -1,0 +1,889 @@
+game_key,season,date,team_a,team_b,goals_a,goals_b,margin_a_minus_b,winner,winner_team,ot_periods,ot_mismatch,home_flag_a,home_flag_b,venue_class,result_quality,n_rows,two_sided,opp_only_flag,had_location_text_flag,row_ids
+2025|2025-02-01|Air Force|Lafayette,2025,2025-02-01,Air Force,Lafayette,8,11,-3,b,Lafayette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L2; 2025:L302
+2025|2025-02-01|Bellarmine|Duke,2025,2025-02-01,Bellarmine,Duke,7,26,-19,b,Duke,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L22; 2025:L183
+2025|2025-02-01|Bucknell|Merrimack,2025,2025-02-01,Bucknell,Merrimack,23,7,16,a,Bucknell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L77; 2025:L398
+2025|2025-02-01|Colgate|Penn St.,2025,2025-02-01,Colgate,Penn St.,9,14,-5,b,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L112; 2025:L502
+2025|2025-02-01|Denver|Johns Hopkins,2025,2025-02-01,Denver,Johns Hopkins,10,13,-3,b,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L153; 2025:L281
+2025|2025-02-01|Georgetown|Loyola Maryland,2025,2025-02-01,Georgetown,Loyola Maryland,13,6,7,a,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L206; 2025:L324
+2025|2025-02-01|Hampton|Mercer,2025,2025-02-01,Hampton,Mercer,3,23,-20,b,Mercer,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L216; 2025:L388
+2025|2025-02-01|High Point|Navy,2025,2025-02-01,High Point,Navy,10,14,-4,b,Navy,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L238; 2025:L450
+2025|2025-02-01|Hofstra|Iona,2025,2025-02-01,Hofstra,Iona,20,2,18,a,Hofstra,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L249
+2025|2025-02-01|Holy Cross|Providence,2025,2025-02-01,Holy Cross,Providence,8,15,-7,b,Providence,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L259; 2025:L522
+2025|2025-02-01|Jacksonville|Syracuse,2025,2025-02-01,Jacksonville,Syracuse,5,24,-19,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L271; 2025:L657
+2025|2025-02-01|Lehigh|Rutgers,2025,2025-02-01,Lehigh,Rutgers,6,10,-4,b,Rutgers,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L313; 2025:L577
+2025|2025-02-01|Manhattan|Wagner,2025,2025-02-01,Manhattan,Wagner,14,3,11,a,Manhattan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L335; 2025:L761
+2025|2025-02-01|Marquette|Michigan,2025,2025-02-01,Marquette,Michigan,1,14,-13,b,Michigan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L357; 2025:L408
+2025|2025-02-01|Maryland|Richmond,2025,2025-02-01,Maryland,Richmond,12,7,5,a,Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L367; 2025:L555
+2025|2025-02-01|Mount St. Mary's|Queens (NC),2025,2025-02-01,Mount St. Mary's,Queens (NC),14,9,5,a,Mount St. Mary's,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L430; 2025:L533
+2025|2025-02-01|Ohio St.|Utah,2025,2025-02-01,Ohio St.,Utah,13,19,-6,b,Utah,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L479; 2025:L710
+2025|2025-02-02|St. Bonaventure|VMI,2025,2025-02-02,St. Bonaventure,VMI,7,18,-11,b,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L621; 2025:L720
+2025|2025-02-04|Detroit Mercy|Ohio St.,2025,2025-02-04,Detroit Mercy,Ohio St.,4,14,-10,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L164; 2025:L480
+2025|2025-02-04|Johns Hopkins|Towson,2025,2025-02-04,Johns Hopkins,Towson,11,10,1,a,Johns Hopkins,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L282; 2025:L668
+2025|2025-02-04|LIU|Rutgers,2025,2025-02-04,LIU,Rutgers,3,17,-14,b,Rutgers,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L292; 2025:L578
+2025|2025-02-07|Fairfield|Lehigh,2025,2025-02-07,Fairfield,Lehigh,10,7,3,a,Fairfield,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L195; 2025:L314
+2025|2025-02-07|Hofstra|Wagner,2025,2025-02-07,Hofstra,Wagner,17,5,12,a,Hofstra,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L250; 2025:L762
+2025|2025-02-07|Holy Cross|Queens (NC),2025,2025-02-07,Holy Cross,Queens (NC),13,12,1,a,Holy Cross,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L260; 2025:L534
+2025|2025-02-07|Merrimack|UMass Lowell,2025,2025-02-07,Merrimack,UMass Lowell,9,14,-5,b,UMass Lowell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L399; 2025:L700
+2025|2025-02-07|Syracuse|Vermont,2025,2025-02-07,Syracuse,Vermont,13,5,8,a,Syracuse,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L658; 2025:L731
+2025|2025-02-08|Air Force|Denver,2025,2025-02-08,Air Force,Denver,8,14,-6,b,Denver,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L3; 2025:L154
+2025|2025-02-08|Army West Point|Massachusetts,2025,2025-02-08,Army West Point,Massachusetts,16,9,7,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L12; 2025:L377
+2025|2025-02-08|Bellarmine|Mercyhurst,2025,2025-02-08,Bellarmine,Mercyhurst,21,11,10,a,Bellarmine,0,False,Home,missing,SINGLE_A_HOME,SINGLE_SIDED,1,False,True,False,2025:L23
+2025|2025-02-08|Boston U.|Siena,2025,2025-02-08,Boston U.,Siena,9,7,2,a,Boston U.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L46; 2025:L611
+2025|2025-02-08|Bryant|Providence,2025,2025-02-08,Bryant,Providence,12,15,-3,b,Providence,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L67; 2025:L523
+2025|2025-02-08|Bucknell|St. Bonaventure,2025,2025-02-08,Bucknell,St. Bonaventure,21,8,13,a,Bucknell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L78; 2025:L622
+2025|2025-02-08|Canisius|Hobart,2025,2025-02-08,Canisius,Hobart,12,21,-9,b,Hobart,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L88
+2025|2025-02-08|Cleveland St.|Ohio St.,2025,2025-02-08,Cleveland St.,Ohio St.,4,14,-10,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L101; 2025:L481
+2025|2025-02-08|Colgate|Virginia,2025,2025-02-08,Colgate,Virginia,9,19,-10,b,Virginia,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L113; 2025:L750
+2025|2025-02-08|Delaware|Utah,2025,2025-02-08,Delaware,Utah,13,12,1,a,Delaware,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L143; 2025:L711
+2025|2025-02-08|Detroit Mercy|Marquette,2025,2025-02-08,Detroit Mercy,Marquette,6,16,-10,b,Marquette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L165; 2025:L358
+2025|2025-02-08|Duke|Jacksonville,2025,2025-02-08,Duke,Jacksonville,14,9,5,a,Duke,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L184; 2025:L272
+2025|2025-02-08|Georgetown|Johns Hopkins,2025,2025-02-08,Georgetown,Johns Hopkins,6,11,-5,b,Johns Hopkins,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L207; 2025:L283
+2025|2025-02-08|High Point|VMI,2025,2025-02-08,High Point,VMI,12,11,1,a,High Point,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L239; 2025:L721
+2025|2025-02-08|Iona|Navy,2025,2025-02-08,Iona,Navy,9,22,-13,b,Navy,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L451
+2025|2025-02-08|LIU|Mount St. Mary's,2025,2025-02-08,LIU,Mount St. Mary's,15,12,3,a,LIU,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L293; 2025:L431
+2025|2025-02-08|Loyola Maryland|Maryland,2025,2025-02-08,Loyola Maryland,Maryland,7,8,-1,b,Maryland,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L325; 2025:L368
+2025|2025-02-08|Manhattan|Monmouth,2025,2025-02-08,Manhattan,Monmouth,9,7,2,a,Manhattan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L336; 2025:L419
+2025|2025-02-08|Marist|Mercer,2025,2025-02-08,Marist,Mercer,16,6,10,a,Marist,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L346; 2025:L389
+2025|2025-02-08|Michigan|North Carolina,2025,2025-02-08,Michigan,North Carolina,6,15,-9,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L409; 2025:L461
+2025|2025-02-08|NJIT|St. John's (NY),2025,2025-02-08,NJIT,St. John's (NY),14,15,-1,b,St. John's (NY),0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L441; 2025:L634
+2025|2025-02-08|Richmond|Robert Morris,2025,2025-02-08,Richmond,Robert Morris,17,2,15,a,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L556; 2025:L566
+2025|2025-02-08|Rutgers|Stony Brook,2025,2025-02-08,Rutgers,Stony Brook,8,9,-1,b,Stony Brook,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L579; 2025:L646
+2025|2025-02-08|Sacred Heart|Saint Joseph's,2025,2025-02-08,Sacred Heart,Saint Joseph's,12,11,1,a,Sacred Heart,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L589; 2025:L600
+2025|2025-02-09|Hampton|Iona,2025,2025-02-09,Hampton,Iona,9,13,-4,b,Iona,0,False,Home,missing,SINGLE_A_HOME,SINGLE_SIDED,1,False,True,False,2025:L217
+2025|2025-02-09|Penn St.|Villanova,2025,2025-02-09,Penn St.,Villanova,15,5,10,a,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L503; 2025:L740
+2025|2025-02-10|Binghamton|Lafayette,2025,2025-02-10,Binghamton,Lafayette,9,16,-7,b,Lafayette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L36; 2025:L303
+2025|2025-02-10|Syracuse|Towson,2025,2025-02-10,Syracuse,Towson,18,7,11,a,Syracuse,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L659; 2025:L669
+2025|2025-02-11|Bellarmine|Ohio St.,2025,2025-02-11,Bellarmine,Ohio St.,4,16,-12,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L24; 2025:L482
+2025|2025-02-11|Holy Cross|UMass Lowell,2025,2025-02-11,Holy Cross,UMass Lowell,14,9,5,a,Holy Cross,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L261; 2025:L701
+2025|2025-02-11|Mount St. Mary's|St. Bonaventure,2025,2025-02-11,Mount St. Mary's,St. Bonaventure,8,9,-1,b,St. Bonaventure,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L432; 2025:L623
+2025|2025-02-12|Cleveland St.|Notre Dame,2025,2025-02-12,Cleveland St.,Notre Dame,6,24,-18,b,Notre Dame,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L102; 2025:L471
+2025|2025-02-14|Boston U.|Monmouth,2025,2025-02-14,Boston U.,Monmouth,15,6,9,a,Boston U.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L47; 2025:L420
+2025|2025-02-14|Colgate|UAlbany,2025,2025-02-14,Colgate,UAlbany,19,14,5,a,Colgate,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L114; 2025:L679
+2025|2025-02-14|Hofstra|Siena,2025,2025-02-14,Hofstra,Siena,11,17,-6,b,Siena,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L251; 2025:L612
+2025|2025-02-14|Massachusetts|Quinnipiac,2025,2025-02-14,Massachusetts,Quinnipiac,19,5,14,a,Massachusetts,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L378; 2025:L544
+2025|2025-02-14|Mercyhurst|UMass Lowell,2025,2025-02-14,Mercyhurst,UMass Lowell,7,15,-8,b,UMass Lowell,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L702
+2025|2025-02-14|North Carolina|Stony Brook,2025,2025-02-14,North Carolina,Stony Brook,9,4,5,a,North Carolina,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L462; 2025:L647
+2025|2025-02-15|Air Force|Ohio St.,2025,2025-02-15,Air Force,Ohio St.,11,17,-6,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L4; 2025:L483
+2025|2025-02-15|Army West Point|Rutgers,2025,2025-02-15,Army West Point,Rutgers,9,3,6,a,Army West Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L13; 2025:L580
+2025|2025-02-15|Bellarmine|Canisius,2025,2025-02-15,Bellarmine,Canisius,13,8,5,a,Bellarmine,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L25; 2025:L89
+2025|2025-02-15|Brown|Fairfield,2025,2025-02-15,Brown,Fairfield,5,11,-6,b,Fairfield,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L57; 2025:L196
+2025|2025-02-15|Bryant|Merrimack,2025,2025-02-15,Bryant,Merrimack,19,4,15,a,Bryant,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L68; 2025:L400
+2025|2025-02-15|Bucknell|Dartmouth,2025,2025-02-15,Bucknell,Dartmouth,11,13,-2,b,Dartmouth,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L79; 2025:L133
+2025|2025-02-15|Cornell|Lehigh,2025,2025-02-15,Cornell,Lehigh,18,10,8,a,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L123; 2025:L315
+2025|2025-02-15|Delaware|St. John's (NY),2025,2025-02-15,Delaware,St. John's (NY),17,10,7,a,Delaware,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L144; 2025:L635
+2025|2025-02-15|Denver|Utah,2025,2025-02-15,Denver,Utah,10,8,2,a,Denver,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L155; 2025:L712
+2025|2025-02-15|Drexel|UMBC,2025,2025-02-15,Drexel,UMBC,6,9,-3,b,UMBC,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L172; 2025:L692
+2025|2025-02-15|Duke|Saint Joseph's,2025,2025-02-15,Duke,Saint Joseph's,11,9,2,a,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L185; 2025:L601
+2025|2025-02-15|Georgetown|Penn,2025,2025-02-15,Georgetown,Penn,8,6,2,a,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L208; 2025:L491
+2025|2025-02-15|Harvard|Providence,2025,2025-02-15,Harvard,Providence,12,10,2,a,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L228; 2025:L524
+2025|2025-02-15|High Point|Robert Morris,2025,2025-02-15,High Point,Robert Morris,17,11,6,a,High Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L240; 2025:L567
+2025|2025-02-15|Hobart|Michigan,2025,2025-02-15,Hobart,Michigan,9,15,-6,b,Michigan,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L410
+2025|2025-02-15|Holy Cross|Sacred Heart,2025,2025-02-15,Holy Cross,Sacred Heart,7,11,-4,b,Sacred Heart,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L262; 2025:L590
+2025|2025-02-15|Iona|LIU,2025,2025-02-15,Iona,LIU,9,14,-5,b,LIU,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L294
+2025|2025-02-15|Jacksonville|Marist,2025,2025-02-15,Jacksonville,Marist,15,12,3,a,Jacksonville,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L273; 2025:L347
+2025|2025-02-15|Johns Hopkins|Loyola Maryland,2025,2025-02-15,Johns Hopkins,Loyola Maryland,9,8,1,a,Johns Hopkins,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L284; 2025:L326
+2025|2025-02-15|Manhattan|Vermont,2025,2025-02-15,Manhattan,Vermont,6,12,-6,b,Vermont,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L337; 2025:L732
+2025|2025-02-15|Marquette|Notre Dame,2025,2025-02-15,Marquette,Notre Dame,9,22,-13,b,Notre Dame,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L359; 2025:L472
+2025|2025-02-15|Maryland|Syracuse,2025,2025-02-15,Maryland,Syracuse,11,7,4,a,Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L369; 2025:L660
+2025|2025-02-15|Mercer|VMI,2025,2025-02-15,Mercer,VMI,11,14,-3,b,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L390; 2025:L722
+2025|2025-02-15|Mount St. Mary's|Wagner,2025,2025-02-15,Mount St. Mary's,Wagner,15,9,6,a,Mount St. Mary's,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L433; 2025:L763
+2025|2025-02-15|Penn St.|Princeton,2025,2025-02-15,Penn St.,Princeton,10,11,-1,b,Princeton,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L504; 2025:L512
+2025|2025-02-15|Richmond|Virginia,2025,2025-02-15,Richmond,Virginia,13,10,3,a,Richmond,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L557; 2025:L751
+2025|2025-02-15|Villanova|Yale,2025,2025-02-15,Villanova,Yale,13,11,2,a,Villanova,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L741; 2025:L772
+2025|2025-02-16|Navy|Towson,2025,2025-02-16,Navy,Towson,14,10,4,a,Navy,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L452; 2025:L670
+2025|2025-02-16|Queens (NC)|Stony Brook,2025,2025-02-16,Queens (NC),Stony Brook,6,12,-6,b,Stony Brook,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L535; 2025:L648
+2025|2025-02-18|Bellarmine|Cleveland St.,2025,2025-02-18,Bellarmine,Cleveland St.,10,16,-6,b,Cleveland St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L26; 2025:L103
+2025|2025-02-18|Boston U.|Brown,2025,2025-02-18,Boston U.,Brown,8,7,1,a,Boston U.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L48; 2025:L58
+2025|2025-02-18|Canisius|Le Moyne,2025,2025-02-18,Canisius,Le Moyne,10,11,-1,b,Le Moyne,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L90
+2025|2025-02-18|Colgate|Harvard,2025,2025-02-18,Colgate,Harvard,19,15,4,a,Colgate,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L115; 2025:L229
+2025|2025-02-18|Dartmouth|Massachusetts,2025,2025-02-18,Dartmouth,Massachusetts,7,11,-4,b,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L134; 2025:L379
+2025|2025-02-18|Drexel|Lafayette,2025,2025-02-18,Drexel,Lafayette,12,10,2,a,Drexel,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L173; 2025:L304
+2025|2025-02-18|Hampton|VMI,2025,2025-02-18,Hampton,VMI,4,28,-24,b,VMI,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L218; 2025:L723
+2025|2025-02-18|High Point|Virginia,2025,2025-02-18,High Point,Virginia,8,17,-9,b,Virginia,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L241; 2025:L752
+2025|2025-02-18|Monmouth|Saint Joseph's,2025,2025-02-18,Monmouth,Saint Joseph's,3,12,-9,b,Saint Joseph's,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L421; 2025:L602
+2025|2025-02-18|Penn|UAlbany,2025,2025-02-18,Penn,UAlbany,14,8,6,a,Penn,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L492; 2025:L680
+2025|2025-02-18|Quinnipiac|St. John's (NY),2025,2025-02-18,Quinnipiac,St. John's (NY),9,15,-6,b,St. John's (NY),0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L545; 2025:L636
+2025|2025-02-18|Robert Morris|St. Bonaventure,2025,2025-02-18,Robert Morris,St. Bonaventure,8,7,1,a,Robert Morris,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L568; 2025:L624
+2025|2025-02-19|Army West Point|Yale,2025,2025-02-19,Army West Point,Yale,14,3,11,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L14; 2025:L773
+2025|2025-02-19|Fairfield|Sacred Heart,2025,2025-02-19,Fairfield,Sacred Heart,13,12,1,a,Fairfield,2,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L197; 2025:L591
+2025|2025-02-19|Mount St. Mary's|UMBC,2025,2025-02-19,Mount St. Mary's,UMBC,6,12,-6,b,UMBC,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L434; 2025:L693
+2025|2025-02-21|Utah|Vermont,2025,2025-02-21,Utah,Vermont,10,11,-1,b,Vermont,0,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L713; 2025:L733
+2025|2025-02-22|Air Force|Boston U.,2025,2025-02-22,Air Force,Boston U.,7,15,-8,b,Boston U.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L5; 2025:L49
+2025|2025-02-22|Army West Point|Mercer,2025,2025-02-22,Army West Point,Mercer,17,4,13,a,Army West Point,0,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L15; 2025:L391
+2025|2025-02-22|Bellarmine|Detroit Mercy,2025,2025-02-22,Bellarmine,Detroit Mercy,16,4,12,a,Bellarmine,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L27; 2025:L166
+2025|2025-02-22|Binghamton|Marist,2025,2025-02-22,Binghamton,Marist,9,10,-1,b,Marist,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L37; 2025:L348
+2025|2025-02-22|Brown|Providence,2025,2025-02-22,Brown,Providence,7,6,1,a,Brown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L59; 2025:L525
+2025|2025-02-22|Bryant|Quinnipiac,2025,2025-02-22,Bryant,Quinnipiac,18,10,8,a,Bryant,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L69; 2025:L546
+2025|2025-02-22|Bucknell|Hobart,2025,2025-02-22,Bucknell,Hobart,12,13,-1,b,Hobart,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L80
+2025|2025-02-22|Canisius|Robert Morris,2025,2025-02-22,Canisius,Robert Morris,7,9,-2,b,Robert Morris,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L91; 2025:L569
+2025|2025-02-22|Cleveland St.|Marquette,2025,2025-02-22,Cleveland St.,Marquette,7,15,-8,b,Marquette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L104; 2025:L360
+2025|2025-02-22|Colgate|Villanova,2025,2025-02-22,Colgate,Villanova,16,5,11,a,Colgate,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L116; 2025:L742
+2025|2025-02-22|Cornell|Denver,2025,2025-02-22,Cornell,Denver,15,5,10,a,Cornell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L124; 2025:L156
+2025|2025-02-22|Dartmouth|Holy Cross,2025,2025-02-22,Dartmouth,Holy Cross,14,4,10,a,Dartmouth,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L135; 2025:L263
+2025|2025-02-22|Delaware|Penn,2025,2025-02-22,Delaware,Penn,2,10,-8,b,Penn,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L145; 2025:L493
+2025|2025-02-22|Drexel|UAlbany,2025,2025-02-22,Drexel,UAlbany,9,16,-7,b,UAlbany,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L174; 2025:L681
+2025|2025-02-22|Duke|Michigan,2025,2025-02-22,Duke,Michigan,8,7,1,a,Duke,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L186; 2025:L411
+2025|2025-02-22|Fairfield|Manhattan,2025,2025-02-22,Fairfield,Manhattan,8,7,1,a,Fairfield,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L198; 2025:L338
+2025|2025-02-22|Georgetown|Notre Dame,2025,2025-02-22,Georgetown,Notre Dame,9,11,-2,b,Notre Dame,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L209; 2025:L473
+2025|2025-02-22|Hampton|Jacksonville,2025,2025-02-22,Hampton,Jacksonville,6,21,-15,b,Jacksonville,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L219; 2025:L274
+2025|2025-02-22|Harvard|Syracuse,2025,2025-02-22,Harvard,Syracuse,15,14,1,a,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L230; 2025:L661
+2025|2025-02-22|Hofstra|St. John's (NY),2025,2025-02-22,Hofstra,St. John's (NY),13,12,1,a,Hofstra,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L252; 2025:L637
+2025|2025-02-22|Iona|VMI,2025,2025-02-22,Iona,VMI,4,19,-15,b,VMI,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L724
+2025|2025-02-22|Johns Hopkins|North Carolina,2025,2025-02-22,Johns Hopkins,North Carolina,12,13,-1,b,North Carolina,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L285; 2025:L463
+2025|2025-02-22|LIU|Siena,2025,2025-02-22,LIU,Siena,13,12,1,a,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L295; 2025:L613
+2025|2025-02-22|Lafayette|Le Moyne,2025,2025-02-22,Lafayette,Le Moyne,15,4,11,a,Lafayette,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L305
+2025|2025-02-22|Lehigh|Richmond,2025,2025-02-22,Lehigh,Richmond,8,9,-1,b,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L316; 2025:L558
+2025|2025-02-22|Loyola Maryland|Rutgers,2025,2025-02-22,Loyola Maryland,Rutgers,5,10,-5,b,Rutgers,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L327; 2025:L581
+2025|2025-02-22|Maryland|Princeton,2025,2025-02-22,Maryland,Princeton,13,9,4,a,Maryland,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L370; 2025:L513
+2025|2025-02-22|Massachusetts|NJIT,2025,2025-02-22,Massachusetts,NJIT,12,4,8,a,Massachusetts,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L380; 2025:L442
+2025|2025-02-22|Mercyhurst|Queens (NC),2025,2025-02-22,Mercyhurst,Queens (NC),8,9,-1,b,Queens (NC),0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L536
+2025|2025-02-22|Navy|Penn St.,2025,2025-02-22,Navy,Penn St.,7,13,-6,b,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L453; 2025:L505
+2025|2025-02-22|Ohio St.|Virginia,2025,2025-02-22,Ohio St.,Virginia,14,5,9,a,Ohio St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L484; 2025:L753
+2025|2025-02-22|Sacred Heart|Stony Brook,2025,2025-02-22,Sacred Heart,Stony Brook,7,6,1,a,Sacred Heart,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L592; 2025:L649
+2025|2025-02-22|Saint Joseph's|Towson,2025,2025-02-22,Saint Joseph's,Towson,11,6,5,a,Saint Joseph's,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L603; 2025:L671
+2025|2025-02-22|UMass Lowell|Wagner,2025,2025-02-22,UMass Lowell,Wagner,13,12,1,a,UMass Lowell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L703; 2025:L764
+2025|2025-02-25|Canisius|Michigan,2025,2025-02-25,Canisius,Michigan,2,16,-14,b,Michigan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L92; 2025:L412
+2025|2025-02-25|Cornell|Hobart,2025,2025-02-25,Cornell,Hobart,22,9,13,a,Cornell,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L125
+2025|2025-02-25|Iona|Stony Brook,2025,2025-02-25,Iona,Stony Brook,7,11,-4,b,Stony Brook,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L650
+2025|2025-02-25|Mercyhurst|St. Bonaventure,2025,2025-02-25,Mercyhurst,St. Bonaventure,9,11,-2,b,St. Bonaventure,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L625
+2025|2025-02-25|Merrimack|Providence,2025,2025-02-25,Merrimack,Providence,7,18,-11,b,Providence,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L401; 2025:L526
+2025|2025-02-25|Monmouth|Wagner,2025,2025-02-25,Monmouth,Wagner,16,7,9,a,Monmouth,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L422; 2025:L765
+2025|2025-02-26|Drexel|NJIT,2025,2025-02-26,Drexel,NJIT,17,5,12,a,Drexel,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L175; 2025:L443
+2025|2025-02-28|Air Force|Quinnipiac,2025,2025-02-28,Air Force,Quinnipiac,21,8,13,a,Air Force,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L6; 2025:L547
+2025|2025-02-28|Dartmouth|Vermont,2025,2025-02-28,Dartmouth,Vermont,14,9,5,a,Dartmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L136; 2025:L734
+2025|2025-02-28|Delaware|High Point,2025,2025-02-28,Delaware,High Point,11,6,5,a,Delaware,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L146; 2025:L242
+2025|2025-02-28|Denver|Marist,2025,2025-02-28,Denver,Marist,18,5,13,a,Denver,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L157; 2025:L349
+2025|2025-02-28|Duke|Princeton,2025,2025-02-28,Duke,Princeton,14,15,-1,b,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L187; 2025:L514
+2025|2025-02-28|Jacksonville|St. John's (NY),2025,2025-02-28,Jacksonville,St. John's (NY),11,10,1,a,Jacksonville,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L275; 2025:L638
+2025|2025-02-28|Lehigh|Villanova,2025,2025-02-28,Lehigh,Villanova,10,7,3,a,Lehigh,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L317; 2025:L743
+2025|2025-02-28|North Carolina|Penn,2025,2025-02-28,North Carolina,Penn,16,8,8,a,North Carolina,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L464; 2025:L494
+2025|2025-02-28|Towson|UMBC,2025,2025-02-28,Towson,UMBC,17,10,7,a,Towson,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L672; 2025:L694
+2025|2025-03-01|Army West Point|Lafayette,2025,2025-03-01,Army West Point,Lafayette,15,5,10,a,Army West Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L16; 2025:L306
+2025|2025-03-01|Bellarmine|LIU,2025,2025-03-01,Bellarmine,LIU,9,15,-6,b,LIU,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L28; 2025:L296
+2025|2025-03-01|Binghamton|Hofstra,2025,2025-03-01,Binghamton,Hofstra,5,15,-10,b,Hofstra,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L38; 2025:L253
+2025|2025-03-01|Boston U.|Navy,2025,2025-03-01,Boston U.,Navy,9,13,-4,b,Navy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L50; 2025:L454
+2025|2025-03-01|Brown|Georgetown,2025,2025-03-01,Brown,Georgetown,8,13,-5,b,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L60; 2025:L210
+2025|2025-03-01|Bryant|Ohio St.,2025,2025-03-01,Bryant,Ohio St.,5,7,-2,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L70; 2025:L485
+2025|2025-03-01|Bucknell|Holy Cross,2025,2025-03-01,Bucknell,Holy Cross,10,11,-1,b,Holy Cross,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L81; 2025:L264
+2025|2025-03-01|Canisius|Cleveland St.,2025,2025-03-01,Canisius,Cleveland St.,8,11,-3,b,Cleveland St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L93; 2025:L105
+2025|2025-03-01|Colgate|Loyola Maryland,2025,2025-03-01,Colgate,Loyola Maryland,18,6,12,a,Colgate,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L117; 2025:L328
+2025|2025-03-01|Drexel|Mercer,2025,2025-03-01,Drexel,Mercer,21,6,15,a,Drexel,0,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L176; 2025:L392
+2025|2025-03-01|Fairfield|Providence,2025,2025-03-01,Fairfield,Providence,15,7,8,a,Fairfield,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L199; 2025:L527
+2025|2025-03-01|Harvard|Marquette,2025,2025-03-01,Harvard,Marquette,20,16,4,a,Harvard,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L231; 2025:L361
+2025|2025-03-01|Hobart|Robert Morris,2025,2025-03-01,Hobart,Robert Morris,7,17,-10,b,Robert Morris,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L570
+2025|2025-03-01|Johns Hopkins|Virginia,2025,2025-03-01,Johns Hopkins,Virginia,13,12,1,a,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L286; 2025:L754
+2025|2025-03-01|Le Moyne|St. Bonaventure,2025,2025-03-01,Le Moyne,St. Bonaventure,10,9,1,a,Le Moyne,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L626
+2025|2025-03-01|Manhattan|Stony Brook,2025,2025-03-01,Manhattan,Stony Brook,7,12,-5,b,Stony Brook,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L339; 2025:L651
+2025|2025-03-01|Maryland|Notre Dame,2025,2025-03-01,Maryland,Notre Dame,11,10,1,a,Maryland,0,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L371; 2025:L474
+2025|2025-03-01|Massachusetts|UAlbany,2025,2025-03-01,Massachusetts,UAlbany,10,9,1,a,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L381; 2025:L682
+2025|2025-03-01|Monmouth|Mount St. Mary's,2025,2025-03-01,Monmouth,Mount St. Mary's,11,10,1,a,Monmouth,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L423; 2025:L435
+2025|2025-03-01|Penn St.|Yale,2025,2025-03-01,Penn St.,Yale,15,9,6,a,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L506; 2025:L774
+2025|2025-03-01|Rutgers|Saint Joseph's,2025,2025-03-01,Rutgers,Saint Joseph's,5,11,-6,b,Saint Joseph's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L582; 2025:L604
+2025|2025-03-01|Sacred Heart|Wagner,2025,2025-03-01,Sacred Heart,Wagner,20,6,14,a,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L593; 2025:L766
+2025|2025-03-01|Syracuse|Utah,2025,2025-03-01,Syracuse,Utah,15,5,10,a,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L662; 2025:L714
+2025|2025-03-02|Air Force|Marist,2025,2025-03-02,Air Force,Marist,23,8,15,a,Air Force,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L7; 2025:L350
+2025|2025-03-02|Cornell|Richmond,2025,2025-03-02,Cornell,Richmond,12,11,1,a,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L126; 2025:L559
+2025|2025-03-02|Denver|Quinnipiac,2025,2025-03-02,Denver,Quinnipiac,14,7,7,a,Denver,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L158; 2025:L548
+2025|2025-03-02|Duke|Penn,2025,2025-03-02,Duke,Penn,11,6,5,a,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L188; 2025:L495
+2025|2025-03-02|Hampton|Mercyhurst,2025,2025-03-02,Hampton,Mercyhurst,6,22,-16,b,Mercyhurst,0,False,Home,missing,SINGLE_A_HOME,SINGLE_SIDED,1,False,True,False,2025:L220
+2025|2025-03-02|Iona|Jacksonville,2025,2025-03-02,Iona,Jacksonville,4,18,-14,b,Jacksonville,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L276
+2025|2025-03-02|North Carolina|Princeton,2025,2025-03-02,North Carolina,Princeton,12,14,-2,b,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L465; 2025:L515
+2025|2025-03-02|Queens (NC)|UMass Lowell,2025,2025-03-02,Queens (NC),UMass Lowell,12,11,1,a,Queens (NC),1,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L537; 2025:L704
+2025|2025-03-03|Dartmouth|Siena,2025,2025-03-03,Dartmouth,Siena,16,13,3,a,Dartmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L137; 2025:L614
+2025|2025-03-04|Bellarmine|Marquette,2025,2025-03-04,Bellarmine,Marquette,11,19,-8,b,Marquette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L29; 2025:L362
+2025|2025-03-04|Brown|Bryant,2025,2025-03-04,Brown,Bryant,10,8,2,a,Brown,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L61; 2025:L71
+2025|2025-03-04|Cleveland St.|Michigan,2025,2025-03-04,Cleveland St.,Michigan,5,19,-14,b,Michigan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L106; 2025:L413
+2025|2025-03-04|Drexel|Villanova,2025,2025-03-04,Drexel,Villanova,6,9,-3,b,Villanova,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L177; 2025:L744
+2025|2025-03-04|Fairfield|St. John's (NY),2025,2025-03-04,Fairfield,St. John's (NY),20,8,12,a,Fairfield,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L200; 2025:L639
+2025|2025-03-04|Holy Cross|Merrimack,2025,2025-03-04,Holy Cross,Merrimack,10,11,-1,b,Merrimack,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L265; 2025:L402
+2025|2025-03-04|Mercyhurst|Richmond,2025,2025-03-04,Mercyhurst,Richmond,3,23,-20,b,Richmond,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L560
+2025|2025-03-04|Queens (NC)|VMI,2025,2025-03-04,Queens (NC),VMI,7,20,-13,b,VMI,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L538; 2025:L725
+2025|2025-03-05|Binghamton|Siena,2025,2025-03-05,Binghamton,Siena,6,10,-4,b,Siena,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L39; 2025:L615
+2025|2025-03-05|Georgetown|UAlbany,2025,2025-03-05,Georgetown,UAlbany,12,7,5,a,Georgetown,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L211; 2025:L683
+2025|2025-03-05|Monmouth|NJIT,2025,2025-03-05,Monmouth,NJIT,18,4,14,a,Monmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L424; 2025:L444
+2025|2025-03-06|Mercer|St. Bonaventure,2025,2025-03-06,Mercer,St. Bonaventure,5,9,-4,b,St. Bonaventure,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L393; 2025:L627
+2025|2025-03-07|Detroit Mercy|Hampton,2025,2025-03-07,Detroit Mercy,Hampton,11,5,6,a,Detroit Mercy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L167; 2025:L221
+2025|2025-03-07|Lehigh|Navy,2025,2025-03-07,Lehigh,Navy,13,8,5,a,Lehigh,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L318; 2025:L455
+2025|2025-03-08|Air Force|Duke,2025,2025-03-08,Air Force,Duke,11,16,-5,b,Duke,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L8; 2025:L189
+2025|2025-03-08|Army West Point|Holy Cross,2025,2025-03-08,Army West Point,Holy Cross,17,4,13,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L17; 2025:L266
+2025|2025-03-08|Bellarmine|Robert Morris,2025,2025-03-08,Bellarmine,Robert Morris,13,10,3,a,Bellarmine,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L30; 2025:L571
+2025|2025-03-08|Binghamton|Stony Brook,2025,2025-03-08,Binghamton,Stony Brook,12,10,2,a,Binghamton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L40; 2025:L652
+2025|2025-03-08|Boston U.|Bucknell,2025,2025-03-08,Boston U.,Bucknell,21,12,9,a,Boston U.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L51; 2025:L82
+2025|2025-03-08|Bryant|St. John's (NY),2025,2025-03-08,Bryant,St. John's (NY),9,6,3,a,Bryant,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L72; 2025:L640
+2025|2025-03-08|Canisius|Sacred Heart,2025,2025-03-08,Canisius,Sacred Heart,10,8,2,a,Canisius,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L94; 2025:L594
+2025|2025-03-08|Cleveland St.|St. Bonaventure,2025,2025-03-08,Cleveland St.,St. Bonaventure,6,8,-2,b,St. Bonaventure,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L107; 2025:L628
+2025|2025-03-08|Colgate|Lafayette,2025,2025-03-08,Colgate,Lafayette,19,14,5,a,Colgate,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L118; 2025:L307
+2025|2025-03-08|Cornell|Penn St.,2025,2025-03-08,Cornell,Penn St.,12,13,-1,b,Penn St.,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L127; 2025:L507
+2025|2025-03-08|Dartmouth|Utah,2025,2025-03-08,Dartmouth,Utah,11,9,2,a,Dartmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L138; 2025:L715
+2025|2025-03-08|Delaware|Maryland,2025,2025-03-08,Delaware,Maryland,3,14,-11,b,Maryland,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L147; 2025:L372
+2025|2025-03-08|Denver|Yale,2025,2025-03-08,Denver,Yale,10,15,-5,b,Yale,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L159; 2025:L775
+2025|2025-03-08|Fairfield|UMass Lowell,2025,2025-03-08,Fairfield,UMass Lowell,19,5,14,a,Fairfield,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L201; 2025:L705
+2025|2025-03-08|Harvard|Michigan,2025,2025-03-08,Harvard,Michigan,14,11,3,a,Harvard,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L232; 2025:L414
+2025|2025-03-08|High Point|Jacksonville,2025,2025-03-08,High Point,Jacksonville,9,11,-2,b,Jacksonville,0,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L243; 2025:L277
+2025|2025-03-08|Hobart|UAlbany,2025,2025-03-08,Hobart,UAlbany,12,17,-5,b,UAlbany,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L684
+2025|2025-03-08|Hofstra|North Carolina,2025,2025-03-08,Hofstra,North Carolina,7,18,-11,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L254; 2025:L466
+2025|2025-03-08|Iona|Marist,2025,2025-03-08,Iona,Marist,7,12,-5,b,Marist,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L351
+2025|2025-03-08|LIU|Queens (NC),2025,2025-03-08,LIU,Queens (NC),13,9,4,a,LIU,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L297; 2025:L539
+2025|2025-03-08|Le Moyne|Mercer,2025,2025-03-08,Le Moyne,Mercer,10,7,3,a,Le Moyne,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L394
+2025|2025-03-08|Loyola Maryland|Providence,2025,2025-03-08,Loyola Maryland,Providence,11,12,-1,b,Providence,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L329; 2025:L528
+2025|2025-03-08|Manhattan|Merrimack,2025,2025-03-08,Manhattan,Merrimack,12,11,1,a,Manhattan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L340; 2025:L403
+2025|2025-03-08|Massachusetts|Vermont,2025,2025-03-08,Massachusetts,Vermont,11,7,4,a,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L382; 2025:L735
+2025|2025-03-08|Monmouth|VMI,2025,2025-03-08,Monmouth,VMI,10,11,-1,b,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L425; 2025:L726
+2025|2025-03-08|Mount St. Mary's|Quinnipiac,2025,2025-03-08,Mount St. Mary's,Quinnipiac,10,21,-11,b,Quinnipiac,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L436; 2025:L549
+2025|2025-03-08|NJIT|Wagner,2025,2025-03-08,NJIT,Wagner,12,11,1,a,NJIT,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L445; 2025:L767
+2025|2025-03-08|Notre Dame|Ohio St.,2025,2025-03-08,Notre Dame,Ohio St.,9,10,-1,b,Ohio St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L475; 2025:L486
+2025|2025-03-08|Penn|Villanova,2025,2025-03-08,Penn,Villanova,11,8,3,a,Penn,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L496; 2025:L745
+2025|2025-03-08|Princeton|Rutgers,2025,2025-03-08,Princeton,Rutgers,11,5,6,a,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L516; 2025:L583
+2025|2025-03-08|Richmond|UMBC,2025,2025-03-08,Richmond,UMBC,14,8,6,a,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L561; 2025:L695
+2025|2025-03-08|Towson|Virginia,2025,2025-03-08,Towson,Virginia,6,11,-5,b,Virginia,0,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L673; 2025:L755
+2025|2025-03-09|Drexel|Saint Joseph's,2025,2025-03-09,Drexel,Saint Joseph's,11,17,-6,b,Saint Joseph's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L178; 2025:L605
+2025|2025-03-09|Johns Hopkins|Syracuse,2025,2025-03-09,Johns Hopkins,Syracuse,10,13,-3,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L287; 2025:L663
+2025|2025-03-11|Bellarmine|Hampton,2025,2025-03-11,Bellarmine,Hampton,19,6,13,a,Bellarmine,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L31; 2025:L222
+2025|2025-03-11|Canisius|St. Bonaventure,2025,2025-03-11,Canisius,St. Bonaventure,6,7,-1,b,St. Bonaventure,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L95; 2025:L629
+2025|2025-03-11|High Point|Queens (NC),2025,2025-03-11,High Point,Queens (NC),18,7,11,a,High Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L244; 2025:L540
+2025|2025-03-11|Lafayette|NJIT,2025,2025-03-11,Lafayette,NJIT,14,4,10,a,Lafayette,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L308; 2025:L446
+2025|2025-03-11|Rutgers|St. John's (NY),2025,2025-03-11,Rutgers,St. John's (NY),21,11,10,a,Rutgers,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L584; 2025:L641
+2025|2025-03-12|Duke|Providence,2025,2025-03-12,Duke,Providence,16,10,6,a,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L190; 2025:L529
+2025|2025-03-12|Penn St.|Robert Morris,2025,2025-03-12,Penn St.,Robert Morris,22,8,14,a,Penn St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L508; 2025:L572
+2025|2025-03-14|Binghamton|UMass Lowell,2025,2025-03-14,Binghamton,UMass Lowell,14,12,2,a,Binghamton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L41; 2025:L706
+2025|2025-03-15|Army West Point|Lehigh,2025,2025-03-15,Army West Point,Lehigh,13,4,9,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L18; 2025:L319
+2025|2025-03-15|Bellarmine|St. Bonaventure,2025,2025-03-15,Bellarmine,St. Bonaventure,9,5,4,a,Bellarmine,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L32; 2025:L630
+2025|2025-03-15|Boston U.|Loyola Maryland,2025,2025-03-15,Boston U.,Loyola Maryland,13,7,6,a,Boston U.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L52; 2025:L330
+2025|2025-03-15|Brown|Penn,2025,2025-03-15,Brown,Penn,8,9,-1,b,Penn,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L62; 2025:L497
+2025|2025-03-15|Bryant|UAlbany,2025,2025-03-15,Bryant,UAlbany,12,11,1,a,Bryant,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L73; 2025:L685
+2025|2025-03-15|Bucknell|Colgate,2025,2025-03-15,Bucknell,Colgate,18,17,1,a,Bucknell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L83; 2025:L119
+2025|2025-03-15|Canisius|Merrimack,2025,2025-03-15,Canisius,Merrimack,10,9,1,a,Canisius,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L96; 2025:L404
+2025|2025-03-15|Cleveland St.|Wagner,2025,2025-03-15,Cleveland St.,Wagner,14,8,6,a,Cleveland St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L108; 2025:L768
+2025|2025-03-15|Cornell|Princeton,2025,2025-03-15,Cornell,Princeton,15,10,5,a,Cornell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L128; 2025:L517
+2025|2025-03-15|Dartmouth|Hobart,2025,2025-03-15,Dartmouth,Hobart,17,5,12,a,Dartmouth,0,False,Home,missing,SINGLE_A_HOME,SINGLE_SIDED,1,False,True,False,2025:L139
+2025|2025-03-15|Delaware|Towson,2025,2025-03-15,Delaware,Towson,18,19,-1,b,Towson,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L148; 2025:L674
+2025|2025-03-15|Detroit Mercy|Robert Morris,2025,2025-03-15,Detroit Mercy,Robert Morris,4,19,-15,b,Robert Morris,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L168; 2025:L573
+2025|2025-03-15|Drexel|Monmouth,2025,2025-03-15,Drexel,Monmouth,13,10,3,a,Drexel,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L179; 2025:L426
+2025|2025-03-15|Duke|Richmond,2025,2025-03-15,Duke,Richmond,13,12,1,a,Duke,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L191; 2025:L562
+2025|2025-03-15|Fairfield|Hampton,2025,2025-03-15,Fairfield,Hampton,29,4,25,a,Fairfield,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L202; 2025:L223
+2025|2025-03-15|Georgetown|High Point,2025,2025-03-15,Georgetown,High Point,17,10,7,a,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L212; 2025:L245
+2025|2025-03-15|Harvard|Yale,2025,2025-03-15,Harvard,Yale,14,11,3,a,Harvard,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L233; 2025:L776
+2025|2025-03-15|Hofstra|Stony Brook,2025,2025-03-15,Hofstra,Stony Brook,13,12,1,a,Hofstra,2,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L255; 2025:L653
+2025|2025-03-15|Holy Cross|Lafayette,2025,2025-03-15,Holy Cross,Lafayette,8,13,-5,b,Lafayette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L267; 2025:L309
+2025|2025-03-15|Johns Hopkins|Navy,2025,2025-03-15,Johns Hopkins,Navy,12,9,3,a,Johns Hopkins,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L288; 2025:L456
+2025|2025-03-15|LIU|Mercyhurst,2025,2025-03-15,LIU,Mercyhurst,15,12,3,a,LIU,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L298
+2025|2025-03-15|Le Moyne|VMI,2025,2025-03-15,Le Moyne,VMI,10,9,1,a,Le Moyne,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L727
+2025|2025-03-15|Manhattan|Mount St. Mary's,2025,2025-03-15,Manhattan,Mount St. Mary's,13,11,2,a,Manhattan,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L341; 2025:L437
+2025|2025-03-15|Marist|Quinnipiac,2025,2025-03-15,Marist,Quinnipiac,7,8,-1,b,Quinnipiac,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L352; 2025:L550
+2025|2025-03-15|Marquette|Utah,2025,2025-03-15,Marquette,Utah,12,11,1,a,Marquette,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L363; 2025:L716
+2025|2025-03-15|Maryland|Virginia,2025,2025-03-15,Maryland,Virginia,12,6,6,a,Maryland,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L373; 2025:L756
+2025|2025-03-15|Massachusetts|Rutgers,2025,2025-03-15,Massachusetts,Rutgers,11,7,4,a,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L383; 2025:L585
+2025|2025-03-15|Mercer|St. John's (NY),2025,2025-03-15,Mercer,St. John's (NY),16,20,-4,b,St. John's (NY),0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L395; 2025:L642
+2025|2025-03-15|Michigan|Notre Dame,2025,2025-03-15,Michigan,Notre Dame,7,19,-12,b,Notre Dame,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L415; 2025:L476
+2025|2025-03-15|Sacred Heart|Siena,2025,2025-03-15,Sacred Heart,Siena,11,10,1,a,Sacred Heart,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L595; 2025:L616
+2025|2025-03-15|Saint Joseph's|Villanova,2025,2025-03-15,Saint Joseph's,Villanova,12,8,4,a,Saint Joseph's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L606; 2025:L746
+2025|2025-03-15|UMBC|Vermont,2025,2025-03-15,UMBC,Vermont,10,7,3,a,UMBC,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L696; 2025:L736
+2025|2025-03-16|Denver|Ohio St.,2025,2025-03-16,Denver,Ohio St.,11,15,-4,b,Ohio St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L160; 2025:L487
+2025|2025-03-16|Jacksonville|North Carolina,2025,2025-03-16,Jacksonville,North Carolina,7,20,-13,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L278; 2025:L467
+2025|2025-03-17|Brown|Villanova,2025,2025-03-17,Brown,Villanova,9,16,-7,b,Villanova,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L63; 2025:L747
+2025|2025-03-18|Hampton|Queens (NC),2025,2025-03-18,Hampton,Queens (NC),8,15,-7,b,Queens (NC),0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L224; 2025:L541
+2025|2025-03-18|Le Moyne|Navy,2025,2025-03-18,Le Moyne,Navy,5,8,-3,b,Navy,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L457
+2025|2025-03-18|Manhattan|Syracuse,2025,2025-03-18,Manhattan,Syracuse,2,18,-16,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L342; 2025:L664
+2025|2025-03-18|Massachusetts|UMass Lowell,2025,2025-03-18,Massachusetts,UMass Lowell,10,9,1,a,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L384; 2025:L707
+2025|2025-03-18|Penn|Saint Joseph's,2025,2025-03-18,Penn,Saint Joseph's,10,11,-1,b,Saint Joseph's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L498; 2025:L607
+2025|2025-03-18|UAlbany|Virginia,2025,2025-03-18,UAlbany,Virginia,9,12,-3,b,Virginia,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L686; 2025:L757
+2025|2025-03-19|Delaware|Marist,2025,2025-03-19,Delaware,Marist,12,10,2,a,Delaware,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L149; 2025:L353
+2025|2025-03-21|High Point|North Carolina,2025,2025-03-21,High Point,North Carolina,2,14,-12,b,North Carolina,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L246; 2025:L468
+2025|2025-03-22|Air Force|Marquette,2025,2025-03-22,Air Force,Marquette,8,9,-1,b,Marquette,0,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L9; 2025:L364
+2025|2025-03-22|Army West Point|Boston U.,2025,2025-03-22,Army West Point,Boston U.,9,10,-1,b,Boston U.,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L19; 2025:L53
+2025|2025-03-22|Binghamton|NJIT,2025,2025-03-22,Binghamton,NJIT,9,4,5,a,Binghamton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L42; 2025:L447
+2025|2025-03-22|Brown|Massachusetts,2025,2025-03-22,Brown,Massachusetts,8,7,1,a,Brown,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L64; 2025:L385
+2025|2025-03-22|Bryant|Vermont,2025,2025-03-22,Bryant,Vermont,12,16,-4,b,Vermont,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L74; 2025:L737
+2025|2025-03-22|Bucknell|Lehigh,2025,2025-03-22,Bucknell,Lehigh,11,10,1,a,Bucknell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L84; 2025:L320
+2025|2025-03-22|Canisius|Quinnipiac,2025,2025-03-22,Canisius,Quinnipiac,10,9,1,a,Canisius,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L97; 2025:L551
+2025|2025-03-22|Cleveland St.|Le Moyne,2025,2025-03-22,Cleveland St.,Le Moyne,6,11,-5,b,Le Moyne,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L109
+2025|2025-03-22|Colgate|Syracuse,2025,2025-03-22,Colgate,Syracuse,12,16,-4,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L120; 2025:L665
+2025|2025-03-22|Cornell|Yale,2025,2025-03-22,Cornell,Yale,19,14,5,a,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L129; 2025:L777
+2025|2025-03-22|Dartmouth|Penn,2025,2025-03-22,Dartmouth,Penn,9,8,1,a,Dartmouth,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L140; 2025:L499
+2025|2025-03-22|Delaware|Hampton,2025,2025-03-22,Delaware,Hampton,18,3,15,a,Delaware,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L150; 2025:L225
+2025|2025-03-22|Denver|Duke,2025,2025-03-22,Denver,Duke,13,6,7,a,Denver,0,False,Away,Away,BOTH_AWAY,TWO_SIDED_AGREE,2,True,False,True,2025:L161; 2025:L192
+2025|2025-03-22|Detroit Mercy|LIU,2025,2025-03-22,Detroit Mercy,LIU,9,14,-5,b,LIU,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L169; 2025:L299
+2025|2025-03-22|Drexel|Fairfield,2025,2025-03-22,Drexel,Fairfield,11,12,-1,b,Fairfield,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L180; 2025:L203
+2025|2025-03-22|Georgetown|Richmond,2025,2025-03-22,Georgetown,Richmond,12,13,-1,b,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L213; 2025:L563
+2025|2025-03-22|Harvard|Princeton,2025,2025-03-22,Harvard,Princeton,11,13,-2,b,Princeton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L234; 2025:L518
+2025|2025-03-22|Hobart|St. John's (NY),2025,2025-03-22,Hobart,St. John's (NY),11,13,-2,b,St. John's (NY),0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,True,2025:L643
+2025|2025-03-22|Hofstra|Monmouth,2025,2025-03-22,Hofstra,Monmouth,15,9,6,a,Hofstra,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L256; 2025:L427
+2025|2025-03-22|Holy Cross|Navy,2025,2025-03-22,Holy Cross,Navy,8,9,-1,b,Navy,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L268; 2025:L458
+2025|2025-03-22|Iona|Siena,2025,2025-03-22,Iona,Siena,12,18,-6,b,Siena,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L617
+2025|2025-03-22|Johns Hopkins|Rutgers,2025,2025-03-22,Johns Hopkins,Rutgers,8,11,-3,b,Rutgers,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L289; 2025:L586
+2025|2025-03-22|Lafayette|Loyola Maryland,2025,2025-03-22,Lafayette,Loyola Maryland,11,10,1,a,Lafayette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L310; 2025:L331
+2025|2025-03-22|Marist|Mount St. Mary's,2025,2025-03-22,Marist,Mount St. Mary's,13,12,1,a,Marist,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L354; 2025:L438
+2025|2025-03-22|Maryland|Michigan,2025,2025-03-22,Maryland,Michigan,10,11,-1,b,Michigan,3,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L374; 2025:L416
+2025|2025-03-22|Mercyhurst|VMI,2025,2025-03-22,Mercyhurst,VMI,12,18,-6,b,VMI,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L728
+2025|2025-03-22|Merrimack|Sacred Heart,2025,2025-03-22,Merrimack,Sacred Heart,8,13,-5,b,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L405; 2025:L596
+2025|2025-03-22|Providence|Saint Joseph's,2025,2025-03-22,Providence,Saint Joseph's,8,16,-8,b,Saint Joseph's,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L530; 2025:L608
+2025|2025-03-22|Robert Morris|Wagner,2025,2025-03-22,Robert Morris,Wagner,15,8,7,a,Robert Morris,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L574; 2025:L769
+2025|2025-03-22|Stony Brook|Towson,2025,2025-03-22,Stony Brook,Towson,12,13,-1,b,Towson,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L654; 2025:L675
+2025|2025-03-22|UAlbany|UMBC,2025,2025-03-22,UAlbany,UMBC,12,13,-1,b,UMBC,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L687; 2025:L697
+2025|2025-03-22|Utah|Virginia,2025,2025-03-22,Utah,Virginia,9,14,-5,b,Virginia,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L717; 2025:L758
+2025|2025-03-23|Ohio St.|Penn St.,2025,2025-03-23,Ohio St.,Penn St.,13,9,4,a,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L488; 2025:L509
+2025|2025-03-25|Binghamton|St. Bonaventure,2025,2025-03-25,Binghamton,St. Bonaventure,6,5,1,a,Binghamton,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L43; 2025:L631
+2025|2025-03-25|Boston U.|Harvard,2025,2025-03-25,Boston U.,Harvard,7,16,-9,b,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L54; 2025:L235
+2025|2025-03-26|Canisius|Marist,2025,2025-03-26,Canisius,Marist,10,14,-4,b,Marist,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L98; 2025:L355
+2025|2025-03-26|Iona|Sacred Heart,2025,2025-03-26,Iona,Sacred Heart,1,16,-15,b,Sacred Heart,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L597
+2025|2025-03-26|Manhattan|Quinnipiac,2025,2025-03-26,Manhattan,Quinnipiac,7,6,1,a,Manhattan,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L343; 2025:L552
+2025|2025-03-26|Merrimack|Siena,2025,2025-03-26,Merrimack,Siena,8,16,-8,b,Siena,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L406; 2025:L618
+2025|2025-03-28|Bucknell|Lafayette,2025,2025-03-28,Bucknell,Lafayette,5,14,-9,b,Lafayette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L85; 2025:L311
+2025|2025-03-28|LIU|Wagner,2025,2025-03-28,LIU,Wagner,11,12,-1,b,Wagner,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L300; 2025:L770
+2025|2025-03-29|Air Force|Jacksonville,2025,2025-03-29,Air Force,Jacksonville,11,15,-4,b,Jacksonville,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L10; 2025:L279
+2025|2025-03-29|Army West Point|North Carolina,2025,2025-03-29,Army West Point,North Carolina,13,12,1,a,Army West Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L20; 2025:L469
+2025|2025-03-29|Bellarmine|Utah,2025,2025-03-29,Bellarmine,Utah,9,11,-2,b,Utah,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L33; 2025:L718
+2025|2025-03-29|Binghamton|Harvard,2025,2025-03-29,Binghamton,Harvard,12,17,-5,b,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L44; 2025:L236
+2025|2025-03-29|Boston U.|Holy Cross,2025,2025-03-29,Boston U.,Holy Cross,16,4,12,a,Boston U.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L55; 2025:L269
+2025|2025-03-29|Brown|Yale,2025,2025-03-29,Brown,Yale,12,15,-3,b,Yale,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L65; 2025:L778
+2025|2025-03-29|Bryant|UMBC,2025,2025-03-29,Bryant,UMBC,12,7,5,a,Bryant,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L75; 2025:L698
+2025|2025-03-29|Canisius|Manhattan,2025,2025-03-29,Canisius,Manhattan,8,7,1,a,Canisius,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L99; 2025:L344
+2025|2025-03-29|Cleveland St.|VMI,2025,2025-03-29,Cleveland St.,VMI,9,11,-2,b,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L110; 2025:L729
+2025|2025-03-29|Colgate|Navy,2025,2025-03-29,Colgate,Navy,14,9,5,a,Colgate,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L121; 2025:L459
+2025|2025-03-29|Cornell|Penn,2025,2025-03-29,Cornell,Penn,15,5,10,a,Cornell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L130; 2025:L500
+2025|2025-03-29|Dartmouth|Princeton,2025,2025-03-29,Dartmouth,Princeton,8,11,-3,b,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L141; 2025:L519
+2025|2025-03-29|Delaware|Hofstra,2025,2025-03-29,Delaware,Hofstra,10,17,-7,b,Hofstra,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L151; 2025:L257
+2025|2025-03-29|Denver|Villanova,2025,2025-03-29,Denver,Villanova,9,10,-1,b,Villanova,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L162; 2025:L748
+2025|2025-03-29|Detroit Mercy|Le Moyne,2025,2025-03-29,Detroit Mercy,Le Moyne,5,8,-3,b,Le Moyne,0,False,Home,missing,SINGLE_A_HOME,SINGLE_SIDED,1,False,True,False,2025:L170
+2025|2025-03-29|Drexel|Towson,2025,2025-03-29,Drexel,Towson,8,12,-4,b,Towson,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L181; 2025:L676
+2025|2025-03-29|Duke|Notre Dame,2025,2025-03-29,Duke,Notre Dame,7,14,-7,b,Notre Dame,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L193; 2025:L477
+2025|2025-03-29|Fairfield|Stony Brook,2025,2025-03-29,Fairfield,Stony Brook,16,17,-1,b,Stony Brook,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L204; 2025:L655
+2025|2025-03-29|Georgetown|Providence,2025,2025-03-29,Georgetown,Providence,14,13,1,a,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L214; 2025:L531
+2025|2025-03-29|Hampton|Monmouth,2025,2025-03-29,Hampton,Monmouth,4,24,-20,b,Monmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L226; 2025:L428
+2025|2025-03-29|High Point|Hobart,2025,2025-03-29,High Point,Hobart,9,7,2,a,High Point,0,False,Home,missing,SINGLE_A_HOME,SINGLE_SIDED,1,False,True,False,2025:L247
+2025|2025-03-29|Iona|Quinnipiac,2025,2025-03-29,Iona,Quinnipiac,12,8,4,a,Iona,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L553
+2025|2025-03-29|Johns Hopkins|Michigan,2025,2025-03-29,Johns Hopkins,Michigan,8,11,-3,b,Michigan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L290; 2025:L417
+2025|2025-03-29|Lehigh|Loyola Maryland,2025,2025-03-29,Lehigh,Loyola Maryland,7,3,4,a,Lehigh,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L321; 2025:L332
+2025|2025-03-29|Marist|Sacred Heart,2025,2025-03-29,Marist,Sacred Heart,12,13,-1,b,Sacred Heart,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L356; 2025:L598
+2025|2025-03-29|Marquette|St. John's (NY),2025,2025-03-29,Marquette,St. John's (NY),13,8,5,a,Marquette,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L365; 2025:L644
+2025|2025-03-29|Maryland|Penn St.,2025,2025-03-29,Maryland,Penn St.,13,8,5,a,Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L375; 2025:L510
+2025|2025-03-29|Massachusetts|Saint Joseph's,2025,2025-03-29,Massachusetts,Saint Joseph's,11,10,1,a,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L386; 2025:L609
+2025|2025-03-29|Mercer|Queens (NC),2025,2025-03-29,Mercer,Queens (NC),12,11,1,a,Mercer,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L396; 2025:L542
+2025|2025-03-29|Mercyhurst|Robert Morris,2025,2025-03-29,Mercyhurst,Robert Morris,8,17,-9,b,Robert Morris,0,False,missing,Home,SINGLE_B_HOME,SINGLE_SIDED,1,False,True,False,2025:L575
+2025|2025-03-29|Mount St. Mary's|Siena,2025,2025-03-29,Mount St. Mary's,Siena,8,12,-4,b,Siena,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L439; 2025:L619
+2025|2025-03-29|NJIT|Vermont,2025,2025-03-29,NJIT,Vermont,8,19,-11,b,Vermont,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L448; 2025:L738
+2025|2025-03-29|Ohio St.|Rutgers,2025,2025-03-29,Ohio St.,Rutgers,13,11,2,a,Ohio St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L489; 2025:L587
+2025|2025-03-29|Richmond|St. Bonaventure,2025,2025-03-29,Richmond,St. Bonaventure,22,5,17,a,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L564; 2025:L632
+2025|2025-03-29|Syracuse|Virginia,2025,2025-03-29,Syracuse,Virginia,12,10,2,a,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L666; 2025:L759
+2025|2025-03-29|UAlbany|UMass Lowell,2025,2025-03-29,UAlbany,UMass Lowell,17,6,11,a,UAlbany,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L688; 2025:L708
+2025|2025-04-01|Cornell|UAlbany,2025,2025-04-01,Cornell,UAlbany,18,11,7,a,Cornell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L131; 2025:L689
+2025|2025-04-01|Lehigh|Princeton,2025,2025-04-01,Lehigh,Princeton,12,17,-5,b,Princeton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L322; 2025:L520
+2025|2025-04-04|Lafayette|Navy,2025,2025-04-04,Lafayette,Navy,8,14,-6,b,Navy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L312; 2025:L460
+2025|2025-04-04|UMBC|UMass Lowell,2025,2025-04-04,UMBC,UMass Lowell,14,4,10,a,UMBC,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L699; 2025:L709
+2025|2025-04-05|Air Force|Bellarmine,2025,2025-04-05,Air Force,Bellarmine,18,6,12,a,Air Force,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L11; 2025:L34
+2025|2025-04-05|Army West Point|Colgate,2025,2025-04-05,Army West Point,Colgate,13,7,6,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L21; 2025:L122
+2025|2025-04-05|Binghamton|UAlbany,2025,2025-04-05,Binghamton,UAlbany,9,11,-2,b,UAlbany,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L45; 2025:L690
+2025|2025-04-05|Boston U.|Duke,2025,2025-04-05,Boston U.,Duke,7,12,-5,b,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L56; 2025:L194
+2025|2025-04-05|Brown|Cornell,2025,2025-04-05,Brown,Cornell,9,13,-4,b,Cornell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L66; 2025:L132
+2025|2025-04-05|Bryant|NJIT,2025,2025-04-05,Bryant,NJIT,15,6,9,a,Bryant,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L76; 2025:L449
+2025|2025-04-05|Bucknell|Loyola Maryland,2025,2025-04-05,Bucknell,Loyola Maryland,11,12,-1,b,Loyola Maryland,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L86; 2025:L333
+2025|2025-04-05|Canisius|Mount St. Mary's,2025,2025-04-05,Canisius,Mount St. Mary's,12,6,6,a,Canisius,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L100; 2025:L440
+2025|2025-04-05|Cleveland St.|Mercyhurst,2025,2025-04-05,Cleveland St.,Mercyhurst,13,10,3,a,Cleveland St.,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L111
+2025|2025-04-05|Dartmouth|Harvard,2025,2025-04-05,Dartmouth,Harvard,7,18,-11,b,Harvard,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L142; 2025:L237
+2025|2025-04-05|Delaware|Stony Brook,2025,2025-04-05,Delaware,Stony Brook,17,9,8,a,Delaware,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L152; 2025:L656
+2025|2025-04-05|Denver|St. John's (NY),2025,2025-04-05,Denver,St. John's (NY),14,7,7,a,Denver,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L163; 2025:L645
+2025|2025-04-05|Detroit Mercy|VMI,2025,2025-04-05,Detroit Mercy,VMI,10,9,1,a,Detroit Mercy,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L171; 2025:L730
+2025|2025-04-05|Drexel|Hampton,2025,2025-04-05,Drexel,Hampton,17,1,16,a,Drexel,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L182; 2025:L227
+2025|2025-04-05|Fairfield|Hofstra,2025,2025-04-05,Fairfield,Hofstra,14,10,4,a,Fairfield,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L205; 2025:L258
+2025|2025-04-05|Georgetown|Marquette,2025,2025-04-05,Georgetown,Marquette,10,9,1,a,Georgetown,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L215; 2025:L366
+2025|2025-04-05|High Point|Massachusetts,2025,2025-04-05,High Point,Massachusetts,14,9,5,a,High Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L248; 2025:L387
+2025|2025-04-05|Hobart|Richmond,2025,2025-04-05,Hobart,Richmond,7,15,-8,b,Richmond,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L565
+2025|2025-04-05|Holy Cross|Lehigh,2025,2025-04-05,Holy Cross,Lehigh,6,10,-4,b,Lehigh,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L270; 2025:L323
+2025|2025-04-05|Iona|Merrimack,2025,2025-04-05,Iona,Merrimack,6,19,-13,b,Merrimack,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L407
+2025|2025-04-05|Jacksonville|Queens (NC),2025,2025-04-05,Jacksonville,Queens (NC),11,6,5,a,Jacksonville,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L280; 2025:L543
+2025|2025-04-05|Johns Hopkins|Ohio St.,2025,2025-04-05,Johns Hopkins,Ohio St.,10,14,-4,b,Ohio St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L291; 2025:L490
+2025|2025-04-05|LIU|Robert Morris,2025,2025-04-05,LIU,Robert Morris,9,13,-4,b,Robert Morris,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L301; 2025:L576
+2025|2025-04-05|Le Moyne|Wagner,2025,2025-04-05,Le Moyne,Wagner,9,4,5,a,Le Moyne,0,False,missing,Away,SINGLE_B_AWAY,SINGLE_SIDED,1,False,True,False,2025:L771
+2025|2025-04-05|Manhattan|Siena,2025,2025-04-05,Manhattan,Siena,8,12,-4,b,Siena,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L345; 2025:L620
+2025|2025-04-05|Maryland|Rutgers,2025,2025-04-05,Maryland,Rutgers,6,8,-2,b,Rutgers,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L376; 2025:L588
+2025|2025-04-05|Mercer|Utah,2025,2025-04-05,Mercer,Utah,10,16,-6,b,Utah,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L397; 2025:L719
+2025|2025-04-05|Monmouth|Towson,2025,2025-04-05,Monmouth,Towson,10,12,-2,b,Towson,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L429; 2025:L677
+2025|2025-04-05|North Carolina|Virginia,2025,2025-04-05,North Carolina,Virginia,18,9,9,a,North Carolina,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L470; 2025:L760
+2025|2025-04-05|Notre Dame|Syracuse,2025,2025-04-05,Notre Dame,Syracuse,9,14,-5,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L478; 2025:L667
+2025|2025-04-05|Penn|Yale,2025,2025-04-05,Penn,Yale,11,14,-3,b,Yale,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L501; 2025:L779
+2025|2025-04-05|Princeton|Vermont,2025,2025-04-05,Princeton,Vermont,10,5,5,a,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L521; 2025:L739
+2025|2025-04-05|Providence|Villanova,2025,2025-04-05,Providence,Villanova,8,11,-3,b,Villanova,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L532; 2025:L749
+2025|2025-04-05|Quinnipiac|Sacred Heart,2025,2025-04-05,Quinnipiac,Sacred Heart,7,12,-5,b,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L554; 2025:L599
+2025|2025-04-05|Saint Joseph's|St. Bonaventure,2025,2025-04-05,Saint Joseph's,St. Bonaventure,15,3,12,a,Saint Joseph's,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L610; 2025:L633
+2025|2025-04-06|Michigan|Penn St.,2025,2025-04-06,Michigan,Penn St.,8,11,-3,b,Penn St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L418; 2025:L511
+2025|2025-04-08|Bucknell|Le Moyne,2025,2025-04-08,Bucknell,Le Moyne,11,7,4,a,Bucknell,0,False,Away,missing,SINGLE_A_AWAY,SINGLE_SIDED,1,False,True,False,2025:L87
+2025|2025-04-08|Loyola Maryland|Towson,2025,2025-04-08,Loyola Maryland,Towson,12,13,-1,b,Towson,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2025:L334; 2025:L678
+2026|2026-01-30|Delaware|Utah,2026,2026-01-30,Delaware,Utah,9,16,-7,b,Utah,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L162; 2026:L876
+2026|2026-01-31|Army West Point|Massachusetts,2026,2026-01-31,Army West Point,Massachusetts,14,8,6,a,Army West Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L14; 2026:L473
+2026|2026-01-31|Cleveland St.|Denver,2026,2026-01-31,Cleveland St.,Denver,1,20,-19,b,Denver,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L115; 2026:L174
+2026|2026-01-31|Hampton|Mercer,2026,2026-01-31,Hampton,Mercer,9,18,-9,b,Mercer,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L247; 2026:L487
+2026|2026-01-31|Holy Cross|Providence,2026,2026-01-31,Holy Cross,Providence,10,15,-5,b,Providence,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L308; 2026:L661
+2026|2026-01-31|Jacksonville|Rutgers,2026,2026-01-31,Jacksonville,Rutgers,10,11,-1,b,Rutgers,1,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L337; 2026:L726
+2026|2026-01-31|Mercyhurst|Michigan,2026,2026-01-31,Mercyhurst,Michigan,2,24,-22,b,Michigan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L499; 2026:L526
+2026|2026-02-01|Air Force|Lafayette,2026,2026-02-01,Air Force,Lafayette,13,12,1,a,Air Force,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L2; 2026:L373
+2026|2026-02-01|Boston U.|Syracuse,2026,2026-02-01,Boston U.,Syracuse,6,13,-7,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L54; 2026:L815
+2026|2026-02-01|Bucknell|Manhattan,2026,2026-02-01,Bucknell,Manhattan,14,8,6,a,Bucknell,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L89; 2026:L425
+2026|2026-02-01|Colgate|Penn St.,2026,2026-02-01,Colgate,Penn St.,14,18,-4,b,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L126; 2026:L637
+2026|2026-02-01|Detroit Mercy|Ohio St.,2026,2026-02-01,Detroit Mercy,Ohio St.,3,19,-16,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L186; 2026:L612
+2026|2026-02-02|Bellarmine|Duke,2026,2026-02-02,Bellarmine,Duke,8,23,-15,b,Duke,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L27; 2026:L211
+2026|2026-02-02|Hofstra|Iona,2026,2026-02-02,Hofstra,Iona,14,7,7,a,Hofstra,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L295; 2026:L321
+2026|2026-02-02|Johns Hopkins|Robert Morris,2026,2026-02-02,Johns Hopkins,Robert Morris,17,2,15,a,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L349; 2026:L712
+2026|2026-02-03|Hampton|NJIT,2026,2026-02-03,Hampton,NJIT,8,22,-14,b,NJIT,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L248; 2026:L563
+2026|2026-02-06|Boston U.|Siena,2026,2026-02-06,Boston U.,Siena,23,7,16,a,Boston U.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L55; 2026:L763
+2026|2026-02-06|Bryant|Providence,2026,2026-02-06,Bryant,Providence,11,16,-5,b,Providence,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L78; 2026:L662
+2026|2026-02-06|Bucknell|St. Bonaventure,2026,2026-02-06,Bucknell,St. Bonaventure,11,2,9,a,Bucknell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L90; 2026:L777
+2026|2026-02-06|Delaware|Drexel,2026,2026-02-06,Delaware,Drexel,1,11,-10,b,Drexel,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L163; 2026:L198
+2026|2026-02-06|Duke|Utah,2026,2026-02-06,Duke,Utah,14,7,7,a,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L212; 2026:L877
+2026|2026-02-06|Fairfield|Lehigh,2026,2026-02-06,Fairfield,Lehigh,14,13,1,a,Fairfield,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L223; 2026:L399
+2026|2026-02-06|Hofstra|Holy Cross,2026,2026-02-06,Hofstra,Holy Cross,8,9,-1,b,Holy Cross,2,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L296; 2026:L309
+2026|2026-02-06|Iona|Navy,2026,2026-02-06,Iona,Navy,7,17,-10,b,Navy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L322; 2026:L576
+2026|2026-02-06|LIU|Mount St. Mary's,2026,2026-02-06,LIU,Mount St. Mary's,14,12,2,a,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L361; 2026:L550
+2026|2026-02-06|Le Moyne|Queens (NC),2026,2026-02-06,Le Moyne,Queens (NC),3,13,-10,b,Queens (NC),0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L386; 2026:L675
+2026|2026-02-06|Manhattan|Monmouth,2026,2026-02-06,Manhattan,Monmouth,9,15,-6,b,Monmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L426; 2026:L539
+2026|2026-02-06|Quinnipiac|UMass Lowell,2026,2026-02-06,Quinnipiac,UMass Lowell,15,12,3,a,Quinnipiac,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L687; 2026:L865
+2026|2026-02-06|Sacred Heart|Stony Brook,2026,2026-02-06,Sacred Heart,Stony Brook,16,11,5,a,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L740; 2026:L803
+2026|2026-02-07|Air Force|Denver,2026,2026-02-07,Air Force,Denver,2,10,-8,b,Denver,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L3; 2026:L175
+2026|2026-02-07|Army West Point|Rutgers,2026,2026-02-07,Army West Point,Rutgers,11,9,2,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L15; 2026:L727
+2026|2026-02-07|Bellarmine|Mercyhurst,2026,2026-02-07,Bellarmine,Mercyhurst,17,9,8,a,Bellarmine,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L28; 2026:L500
+2026|2026-02-07|Canisius|Hobart,2026,2026-02-07,Canisius,Hobart,8,13,-5,b,Hobart,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L102; 2026:L283
+2026|2026-02-07|Cleveland St.|Ohio St.,2026,2026-02-07,Cleveland St.,Ohio St.,7,17,-10,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L116; 2026:L613
+2026|2026-02-07|High Point|VMI,2026,2026-02-07,High Point,VMI,19,11,8,a,High Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L271; 2026:L888
+2026|2026-02-07|Jacksonville|North Carolina,2026,2026-02-07,Jacksonville,North Carolina,10,11,-1,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L338; 2026:L589
+2026|2026-02-07|Loyola Maryland|Maryland,2026,2026-02-07,Loyola Maryland,Maryland,10,19,-9,b,Maryland,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L412; 2026:L462
+2026|2026-02-07|Marist|Mercer,2026,2026-02-07,Marist,Mercer,9,13,-4,b,Mercer,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L438; 2026:L488
+2026|2026-02-07|Marquette|Michigan,2026,2026-02-07,Marquette,Michigan,7,14,-7,b,Michigan,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L450; 2026:L527
+2026|2026-02-07|Massachusetts|Merrimack,2026,2026-02-07,Massachusetts,Merrimack,16,5,11,a,Massachusetts,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L474; 2026:L513
+2026|2026-02-07|Penn St.|Villanova,2026,2026-02-07,Penn St.,Villanova,13,14,-1,b,Villanova,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L638; 2026:L911
+2026|2026-02-07|Richmond|Robert Morris,2026,2026-02-07,Richmond,Robert Morris,17,7,10,a,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L700; 2026:L713
+2026|2026-02-07|Saint Joseph's|Syracuse,2026,2026-02-07,Saint Joseph's,Syracuse,2,20,-18,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L753; 2026:L816
+2026|2026-02-08|Colgate|Virginia,2026,2026-02-08,Colgate,Virginia,14,19,-5,b,Virginia,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L127; 2026:L923
+2026|2026-02-08|NJIT|St. John's (NY),2026,2026-02-08,NJIT,St. John's (NY),17,10,7,a,NJIT,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L564; 2026:L790
+2026|2026-02-10|Bellarmine|Ohio St.,2026,2026-02-10,Bellarmine,Ohio St.,6,11,-5,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L29; 2026:L614
+2026|2026-02-10|Binghamton|Lafayette,2026,2026-02-10,Binghamton,Lafayette,9,10,-1,b,Lafayette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L42; 2026:L374
+2026|2026-02-10|Detroit Mercy|Michigan,2026,2026-02-10,Detroit Mercy,Michigan,7,11,-4,b,Michigan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L187; 2026:L528
+2026|2026-02-10|Iona|Lehigh,2026,2026-02-10,Iona,Lehigh,7,16,-9,b,Lehigh,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L323; 2026:L400
+2026|2026-02-10|Johns Hopkins|Towson,2026,2026-02-10,Johns Hopkins,Towson,13,11,2,a,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L350; 2026:L829
+2026|2026-02-11|Holy Cross|Merrimack,2026,2026-02-11,Holy Cross,Merrimack,14,8,6,a,Holy Cross,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L310; 2026:L514
+2026|2026-02-11|Sacred Heart|Wagner,2026,2026-02-11,Sacred Heart,Wagner,14,10,4,a,Sacred Heart,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L741; 2026:L936
+2026|2026-02-13|Bucknell|Robert Morris,2026,2026-02-13,Bucknell,Robert Morris,12,16,-4,b,Robert Morris,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L91; 2026:L714
+2026|2026-02-13|Drexel|UMBC,2026,2026-02-13,Drexel,UMBC,15,8,7,a,Drexel,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L199; 2026:L854
+2026|2026-02-13|High Point|North Carolina,2026,2026-02-13,High Point,North Carolina,9,20,-11,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L272; 2026:L590
+2026|2026-02-13|Maryland|Syracuse,2026,2026-02-13,Maryland,Syracuse,9,11,-2,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L463; 2026:L817
+2026|2026-02-13|Massachusetts|Quinnipiac,2026,2026-02-13,Massachusetts,Quinnipiac,16,8,8,a,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L475; 2026:L688
+2026|2026-02-13|Queens (NC)|Vermont,2026,2026-02-13,Queens (NC),Vermont,8,17,-9,b,Vermont,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L676; 2026:L900
+2026|2026-02-14|Air Force|Ohio St.,2026,2026-02-14,Air Force,Ohio St.,9,14,-5,b,Ohio St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L4; 2026:L615
+2026|2026-02-14|Army West Point|Yale,2026,2026-02-14,Army West Point,Yale,12,6,6,a,Army West Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L16; 2026:L948
+2026|2026-02-14|Bellarmine|Cleveland St.,2026,2026-02-14,Bellarmine,Cleveland St.,10,7,3,a,Bellarmine,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L30; 2026:L117
+2026|2026-02-14|Binghamton|St. Bonaventure,2026,2026-02-14,Binghamton,St. Bonaventure,9,10,-1,b,St. Bonaventure,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L43; 2026:L778
+2026|2026-02-14|Brown|Fairfield,2026,2026-02-14,Brown,Fairfield,10,8,2,a,Brown,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L66; 2026:L224
+2026|2026-02-14|Bryant|Merrimack,2026,2026-02-14,Bryant,Merrimack,6,13,-7,b,Merrimack,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L79; 2026:L515
+2026|2026-02-14|Colgate|Hobart,2026,2026-02-14,Colgate,Hobart,7,6,1,a,Colgate,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L128; 2026:L284
+2026|2026-02-14|Cornell|UAlbany,2026,2026-02-14,Cornell,UAlbany,11,10,1,a,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L138; 2026:L841
+2026|2026-02-14|Delaware|St. John's (NY),2026,2026-02-14,Delaware,St. John's (NY),12,11,1,a,Delaware,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L164; 2026:L791
+2026|2026-02-14|Denver|Utah,2026,2026-02-14,Denver,Utah,8,7,1,a,Denver,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L176; 2026:L878
+2026|2026-02-14|Detroit Mercy|Hampton,2026,2026-02-14,Detroit Mercy,Hampton,20,8,12,a,Detroit Mercy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L188; 2026:L249
+2026|2026-02-14|Georgetown|Penn,2026,2026-02-14,Georgetown,Penn,12,9,3,a,Georgetown,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L236; 2026:L625
+2026|2026-02-14|Harvard|Providence,2026,2026-02-14,Harvard,Providence,10,4,6,a,Harvard,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L259; 2026:L663
+2026|2026-02-14|Hofstra|Siena,2026,2026-02-14,Hofstra,Siena,10,14,-4,b,Siena,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L297; 2026:L764
+2026|2026-02-14|Holy Cross|Sacred Heart,2026,2026-02-14,Holy Cross,Sacred Heart,11,15,-4,b,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L311; 2026:L742
+2026|2026-02-14|Jacksonville|Le Moyne,2026,2026-02-14,Jacksonville,Le Moyne,20,2,18,a,Jacksonville,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L339; 2026:L387
+2026|2026-02-14|Johns Hopkins|Loyola Maryland,2026,2026-02-14,Johns Hopkins,Loyola Maryland,13,7,6,a,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L351; 2026:L413
+2026|2026-02-14|LIU|Monmouth,2026,2026-02-14,LIU,Monmouth,9,8,1,a,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L362; 2026:L540
+2026|2026-02-14|Lafayette|NJIT,2026,2026-02-14,Lafayette,NJIT,19,9,10,a,Lafayette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L375; 2026:L565
+2026|2026-02-14|Lehigh|Michigan,2026,2026-02-14,Lehigh,Michigan,14,13,1,a,Lehigh,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L401; 2026:L529
+2026|2026-02-14|Manhattan|Wagner,2026,2026-02-14,Manhattan,Wagner,10,5,5,a,Manhattan,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L427; 2026:L937
+2026|2026-02-14|Marquette|Notre Dame,2026,2026-02-14,Marquette,Notre Dame,11,16,-5,b,Notre Dame,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L451; 2026:L602
+2026|2026-02-14|Mercer|VMI,2026,2026-02-14,Mercer,VMI,16,12,4,a,Mercer,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L489; 2026:L889
+2026|2026-02-14|Mercyhurst|UMass Lowell,2026,2026-02-14,Mercyhurst,UMass Lowell,13,14,-1,b,UMass Lowell,2,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L501; 2026:L866
+2026|2026-02-14|Navy|Towson,2026,2026-02-14,Navy,Towson,8,12,-4,b,Towson,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L577; 2026:L830
+2026|2026-02-14|Penn St.|Princeton,2026,2026-02-14,Penn St.,Princeton,13,7,6,a,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L639; 2026:L649
+2026|2026-02-14|Richmond|Virginia,2026,2026-02-14,Richmond,Virginia,18,12,6,a,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L701; 2026:L924
+2026|2026-02-14|Rutgers|Stony Brook,2026,2026-02-14,Rutgers,Stony Brook,14,11,3,a,Rutgers,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L728; 2026:L804
+2026|2026-02-14|Saint Joseph's|Villanova,2026,2026-02-14,Saint Joseph's,Villanova,11,9,2,a,Saint Joseph's,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L754; 2026:L912
+2026|2026-02-15|Boston U.|Dartmouth,2026,2026-02-15,Boston U.,Dartmouth,13,5,8,a,Boston U.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L56; 2026:L150
+2026|2026-02-15|Duke|Vermont,2026,2026-02-15,Duke,Vermont,22,6,16,a,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L213; 2026:L901
+2026|2026-02-15|Iona|North Carolina,2026,2026-02-15,Iona,North Carolina,7,23,-16,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L324; 2026:L591
+2026|2026-02-16|Mercer|Richmond,2026,2026-02-16,Mercer,Richmond,5,15,-10,b,Richmond,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L490; 2026:L702
+2026|2026-02-17|Bellarmine|Notre Dame,2026,2026-02-17,Bellarmine,Notre Dame,10,29,-19,b,Notre Dame,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L31; 2026:L603
+2026|2026-02-17|Binghamton|Siena,2026,2026-02-17,Binghamton,Siena,5,14,-9,b,Siena,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L44; 2026:L765
+2026|2026-02-17|Bucknell|Iona,2026,2026-02-17,Bucknell,Iona,16,8,8,a,Bucknell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L92; 2026:L325
+2026|2026-02-17|Canisius|Mercyhurst,2026,2026-02-17,Canisius,Mercyhurst,8,10,-2,b,Mercyhurst,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L103; 2026:L502
+2026|2026-02-17|Colgate|Harvard,2026,2026-02-17,Colgate,Harvard,8,17,-9,b,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L129; 2026:L260
+2026|2026-02-17|Drexel|Lafayette,2026,2026-02-17,Drexel,Lafayette,9,8,1,a,Drexel,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L200; 2026:L376
+2026|2026-02-17|Marist|Yale,2026,2026-02-17,Marist,Yale,9,15,-6,b,Yale,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L439; 2026:L949
+2026|2026-02-17|Monmouth|Wagner,2026,2026-02-17,Monmouth,Wagner,15,7,8,a,Monmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L541; 2026:L938
+2026|2026-02-17|Mount St. Mary's|Queens (NC),2026,2026-02-17,Mount St. Mary's,Queens (NC),13,10,3,a,Mount St. Mary's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L551; 2026:L677
+2026|2026-02-17|Navy|VMI,2026,2026-02-17,Navy,VMI,19,12,7,a,Navy,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L578; 2026:L890
+2026|2026-02-17|Penn|UAlbany,2026,2026-02-17,Penn,UAlbany,15,10,5,a,Penn,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L626; 2026:L842
+2026|2026-02-17|Quinnipiac|St. John's (NY),2026,2026-02-17,Quinnipiac,St. John's (NY),8,20,-12,b,St. John's (NY),0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L689; 2026:L792
+2026|2026-02-17|Robert Morris|St. Bonaventure,2026,2026-02-17,Robert Morris,St. Bonaventure,11,14,-3,b,St. Bonaventure,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L715; 2026:L779
+2026|2026-02-18|Fairfield|Sacred Heart,2026,2026-02-18,Fairfield,Sacred Heart,12,13,-1,b,Sacred Heart,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L225; 2026:L743
+2026|2026-02-20|Canisius|Robert Morris,2026,2026-02-20,Canisius,Robert Morris,8,11,-3,b,Robert Morris,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L104; 2026:L716
+2026|2026-02-20|Dartmouth|Vermont,2026,2026-02-20,Dartmouth,Vermont,14,10,4,a,Dartmouth,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L151; 2026:L902
+2026|2026-02-20|Johns Hopkins|North Carolina,2026,2026-02-20,Johns Hopkins,North Carolina,9,17,-8,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L352; 2026:L592
+2026|2026-02-20|Loyola Maryland|UMBC,2026,2026-02-20,Loyola Maryland,UMBC,12,8,4,a,Loyola Maryland,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L414; 2026:L855
+2026|2026-02-20|Saint Joseph's|Towson,2026,2026-02-20,Saint Joseph's,Towson,12,11,1,a,Saint Joseph's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L755; 2026:L831
+2026|2026-02-21|Army West Point|Michigan,2026,2026-02-21,Army West Point,Michigan,13,11,2,a,Army West Point,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L17; 2026:L530
+2026|2026-02-21|Bellarmine|Detroit Mercy,2026,2026-02-21,Bellarmine,Detroit Mercy,16,9,7,a,Bellarmine,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L32; 2026:L189
+2026|2026-02-21|Binghamton|Marist,2026,2026-02-21,Binghamton,Marist,6,9,-3,b,Marist,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L45; 2026:L440
+2026|2026-02-21|Boston U.|Yale,2026,2026-02-21,Boston U.,Yale,11,16,-5,b,Yale,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L57; 2026:L950
+2026|2026-02-21|Brown|Providence,2026,2026-02-21,Brown,Providence,8,7,1,a,Brown,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L67; 2026:L664
+2026|2026-02-21|Bryant|Quinnipiac,2026,2026-02-21,Bryant,Quinnipiac,14,7,7,a,Bryant,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L80; 2026:L690
+2026|2026-02-21|Bucknell|Hobart,2026,2026-02-21,Bucknell,Hobart,12,10,2,a,Bucknell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L93; 2026:L285
+2026|2026-02-21|Cleveland St.|Marquette,2026,2026-02-21,Cleveland St.,Marquette,7,9,-2,b,Marquette,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L118; 2026:L452
+2026|2026-02-21|Cornell|Denver,2026,2026-02-21,Cornell,Denver,13,9,4,a,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L139; 2026:L177
+2026|2026-02-21|Delaware|Penn,2026,2026-02-21,Delaware,Penn,6,14,-8,b,Penn,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L165; 2026:L627
+2026|2026-02-21|Drexel|UAlbany,2026,2026-02-21,Drexel,UAlbany,9,17,-8,b,UAlbany,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L201; 2026:L843
+2026|2026-02-21|Duke|Jacksonville,2026,2026-02-21,Duke,Jacksonville,16,10,6,a,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L214; 2026:L340
+2026|2026-02-21|Fairfield|Manhattan,2026,2026-02-21,Fairfield,Manhattan,15,9,6,a,Fairfield,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L226; 2026:L428
+2026|2026-02-21|Hampton|VMI,2026,2026-02-21,Hampton,VMI,15,17,-2,b,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L250; 2026:L891
+2026|2026-02-21|Harvard|Syracuse,2026,2026-02-21,Harvard,Syracuse,13,12,1,a,Harvard,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L261; 2026:L818
+2026|2026-02-21|High Point|Ohio St.,2026,2026-02-21,High Point,Ohio St.,5,13,-8,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L273; 2026:L616
+2026|2026-02-21|Hofstra|St. John's (NY),2026,2026-02-21,Hofstra,St. John's (NY),8,9,-1,b,St. John's (NY),0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L298; 2026:L793
+2026|2026-02-21|Holy Cross|Le Moyne,2026,2026-02-21,Holy Cross,Le Moyne,12,5,7,a,Holy Cross,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L312; 2026:L388
+2026|2026-02-21|Iona|LIU,2026,2026-02-21,Iona,LIU,10,16,-6,b,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L326; 2026:L363
+2026|2026-02-21|Lafayette|Mount St. Mary's,2026,2026-02-21,Lafayette,Mount St. Mary's,19,5,14,a,Lafayette,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L377; 2026:L552
+2026|2026-02-21|Lehigh|Richmond,2026,2026-02-21,Lehigh,Richmond,7,16,-9,b,Richmond,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L402; 2026:L703
+2026|2026-02-21|Maryland|Princeton,2026,2026-02-21,Maryland,Princeton,12,13,-1,b,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L464; 2026:L650
+2026|2026-02-21|Massachusetts|NJIT,2026,2026-02-21,Massachusetts,NJIT,18,14,4,a,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L476; 2026:L566
+2026|2026-02-21|Merrimack|Utah,2026,2026-02-21,Merrimack,Utah,8,17,-9,b,Utah,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L516; 2026:L879
+2026|2026-02-21|Navy|Penn St.,2026,2026-02-21,Navy,Penn St.,12,11,1,a,Navy,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L579; 2026:L640
+2026|2026-02-21|Rutgers|Villanova,2026,2026-02-21,Rutgers,Villanova,8,7,1,a,Rutgers,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L729; 2026:L913
+2026|2026-02-21|Stony Brook|Virginia,2026,2026-02-21,Stony Brook,Virginia,7,19,-12,b,Virginia,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L805; 2026:L925
+2026|2026-02-21|UMass Lowell|Wagner,2026,2026-02-21,UMass Lowell,Wagner,16,7,9,a,UMass Lowell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L867; 2026:L939
+2026|2026-02-22|Georgetown|Notre Dame,2026,2026-02-22,Georgetown,Notre Dame,9,15,-6,b,Notre Dame,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L237; 2026:L604
+2026|2026-02-22|Mercyhurst|Queens (NC),2026,2026-02-22,Mercyhurst,Queens (NC),11,14,-3,b,Queens (NC),0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L503; 2026:L678
+2026|2026-02-23|Army West Point|Mercer,2026,2026-02-23,Army West Point,Mercer,16,7,9,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L18; 2026:L491
+2026|2026-02-23|Detroit Mercy|Marquette,2026,2026-02-23,Detroit Mercy,Marquette,4,15,-11,b,Marquette,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L190; 2026:L453
+2026|2026-02-23|High Point|Robert Morris,2026,2026-02-23,High Point,Robert Morris,7,8,-1,b,Robert Morris,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L274; 2026:L717
+2026|2026-02-24|Air Force|Siena,2026,2026-02-24,Air Force,Siena,9,21,-12,b,Siena,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L5; 2026:L766
+2026|2026-02-24|Bellarmine|St. Bonaventure,2026,2026-02-24,Bellarmine,St. Bonaventure,14,12,2,a,Bellarmine,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L33; 2026:L780
+2026|2026-02-24|Canisius|Le Moyne,2026,2026-02-24,Canisius,Le Moyne,8,7,1,a,Canisius,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L105; 2026:L389
+2026|2026-02-24|Cornell|Hobart,2026,2026-02-24,Cornell,Hobart,19,8,11,a,Cornell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L140; 2026:L286
+2026|2026-02-24|Dartmouth|Merrimack,2026,2026-02-24,Dartmouth,Merrimack,19,10,9,a,Dartmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L152; 2026:L517
+2026|2026-02-24|LIU|Rutgers,2026,2026-02-24,LIU,Rutgers,5,13,-8,b,Rutgers,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L364; 2026:L730
+2026|2026-02-24|Mount St. Mary's|UMBC,2026,2026-02-24,Mount St. Mary's,UMBC,4,7,-3,b,UMBC,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L553; 2026:L856
+2026|2026-02-25|Brown|Massachusetts,2026,2026-02-25,Brown,Massachusetts,8,11,-3,b,Massachusetts,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L68; 2026:L477
+2026|2026-02-25|Iona|Stony Brook,2026,2026-02-25,Iona,Stony Brook,6,8,-2,b,Stony Brook,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L327; 2026:L806
+2026|2026-02-27|Binghamton|Mercyhurst,2026,2026-02-27,Binghamton,Mercyhurst,12,6,6,a,Binghamton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L46; 2026:L504
+2026|2026-02-27|North Carolina|Penn,2026,2026-02-27,North Carolina,Penn,11,9,2,a,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L593; 2026:L628
+2026|2026-02-27|Princeton|Syracuse,2026,2026-02-27,Princeton,Syracuse,11,7,4,a,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L651; 2026:L819
+2026|2026-02-27|Towson|UMBC,2026,2026-02-27,Towson,UMBC,14,10,4,a,Towson,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L832; 2026:L857
+2026|2026-02-28|Air Force|Marist,2026,2026-02-28,Air Force,Marist,11,13,-2,b,Marist,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L6; 2026:L441
+2026|2026-02-28|Army West Point|Holy Cross,2026,2026-02-28,Army West Point,Holy Cross,13,5,8,a,Army West Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L19; 2026:L313
+2026|2026-02-28|Boston U.|Navy,2026,2026-02-28,Boston U.,Navy,15,10,5,a,Boston U.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L58; 2026:L580
+2026|2026-02-28|Brown|Bryant,2026,2026-02-28,Brown,Bryant,17,6,11,a,Brown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L69; 2026:L81
+2026|2026-02-28|Bucknell|Lehigh,2026,2026-02-28,Bucknell,Lehigh,12,11,1,a,Bucknell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L94; 2026:L403
+2026|2026-02-28|Canisius|Cleveland St.,2026,2026-02-28,Canisius,Cleveland St.,9,13,-4,b,Cleveland St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L106; 2026:L119
+2026|2026-02-28|Colgate|Loyola Maryland,2026,2026-02-28,Colgate,Loyola Maryland,11,13,-2,b,Loyola Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L130; 2026:L415
+2026|2026-02-28|Cornell|Richmond,2026,2026-02-28,Cornell,Richmond,7,8,-1,b,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L141; 2026:L704
+2026|2026-02-28|Dartmouth|Siena,2026,2026-02-28,Dartmouth,Siena,13,6,7,a,Dartmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L153; 2026:L767
+2026|2026-02-28|Delaware|Villanova,2026,2026-02-28,Delaware,Villanova,7,12,-5,b,Villanova,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L166; 2026:L914
+2026|2026-02-28|Denver|Michigan,2026,2026-02-28,Denver,Michigan,15,9,6,a,Denver,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L178; 2026:L531
+2026|2026-02-28|Drexel|Mercer,2026,2026-02-28,Drexel,Mercer,18,7,11,a,Drexel,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L202; 2026:L492
+2026|2026-02-28|Fairfield|Providence,2026,2026-02-28,Fairfield,Providence,8,7,1,a,Fairfield,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L227; 2026:L665
+2026|2026-02-28|Georgetown|Ohio St.,2026,2026-02-28,Georgetown,Ohio St.,9,10,-1,b,Ohio St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L238; 2026:L617
+2026|2026-02-28|Hampton|Wagner,2026,2026-02-28,Hampton,Wagner,6,14,-8,b,Wagner,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L251; 2026:L940
+2026|2026-02-28|Harvard|Marquette,2026,2026-02-28,Harvard,Marquette,19,10,9,a,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L262; 2026:L454
+2026|2026-02-28|High Point|Jacksonville,2026,2026-02-28,High Point,Jacksonville,7,18,-11,b,Jacksonville,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L275; 2026:L341
+2026|2026-02-28|Hobart|Robert Morris,2026,2026-02-28,Hobart,Robert Morris,7,8,-1,b,Robert Morris,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L287; 2026:L718
+2026|2026-02-28|Hofstra|Rutgers,2026,2026-02-28,Hofstra,Rutgers,8,11,-3,b,Rutgers,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L299; 2026:L731
+2026|2026-02-28|Iona|Utah,2026,2026-02-28,Iona,Utah,4,32,-28,b,Utah,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L328; 2026:L880
+2026|2026-02-28|Johns Hopkins|Virginia,2026,2026-02-28,Johns Hopkins,Virginia,14,13,1,a,Johns Hopkins,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L353; 2026:L926
+2026|2026-02-28|Lafayette|St. John's (NY),2026,2026-02-28,Lafayette,St. John's (NY),11,9,2,a,Lafayette,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L378; 2026:L794
+2026|2026-02-28|Le Moyne|St. Bonaventure,2026,2026-02-28,Le Moyne,St. Bonaventure,7,6,1,a,Le Moyne,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L390; 2026:L781
+2026|2026-02-28|Manhattan|Stony Brook,2026,2026-02-28,Manhattan,Stony Brook,6,15,-9,b,Stony Brook,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L429; 2026:L807
+2026|2026-02-28|Maryland|Notre Dame,2026,2026-02-28,Maryland,Notre Dame,8,11,-3,b,Notre Dame,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L465; 2026:L605
+2026|2026-02-28|Massachusetts|UAlbany,2026,2026-02-28,Massachusetts,UAlbany,15,9,6,a,Massachusetts,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L478; 2026:L844
+2026|2026-02-28|Monmouth|Mount St. Mary's,2026,2026-02-28,Monmouth,Mount St. Mary's,14,5,9,a,Monmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L542; 2026:L554
+2026|2026-02-28|NJIT|Sacred Heart,2026,2026-02-28,NJIT,Sacred Heart,12,14,-2,b,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L567; 2026:L744
+2026|2026-02-28|Penn St.|Yale,2026,2026-02-28,Penn St.,Yale,17,7,10,a,Penn St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L641; 2026:L951
+2026|2026-02-28|Queens (NC)|VMI,2026,2026-02-28,Queens (NC),VMI,10,11,-1,b,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L679; 2026:L892
+2026|2026-02-28|Quinnipiac|Vermont,2026,2026-02-28,Quinnipiac,Vermont,8,15,-7,b,Vermont,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L691; 2026:L903
+2026|2026-03-01|Bellarmine|LIU,2026,2026-03-01,Bellarmine,LIU,7,15,-8,b,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L34; 2026:L365
+2026|2026-03-01|Duke|Saint Joseph's,2026,2026-03-01,Duke,Saint Joseph's,12,6,6,a,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L215; 2026:L756
+2026|2026-03-01|North Carolina|Princeton,2026,2026-03-01,North Carolina,Princeton,9,11,-2,b,Princeton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L594; 2026:L652
+2026|2026-03-01|Penn|Syracuse,2026,2026-03-01,Penn,Syracuse,8,9,-1,b,Syracuse,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L629; 2026:L820
+2026|2026-03-02|Merrimack|Providence,2026,2026-03-02,Merrimack,Providence,9,16,-7,b,Providence,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L518; 2026:L666
+2026|2026-03-03|Drexel|Villanova,2026,2026-03-03,Drexel,Villanova,10,11,-1,b,Villanova,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L203; 2026:L915
+2026|2026-03-03|High Point|Virginia,2026,2026-03-03,High Point,Virginia,7,14,-7,b,Virginia,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L276; 2026:L927
+2026|2026-03-03|Le Moyne|Siena,2026,2026-03-03,Le Moyne,Siena,7,11,-4,b,Siena,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L391; 2026:L768
+2026|2026-03-03|Loyola Maryland|Towson,2026,2026-03-03,Loyola Maryland,Towson,17,13,4,a,Loyola Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L416; 2026:L833
+2026|2026-03-03|Massachusetts|UMass Lowell,2026,2026-03-03,Massachusetts,UMass Lowell,18,8,10,a,Massachusetts,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L479; 2026:L868
+2026|2026-03-03|Mercyhurst|St. Bonaventure,2026,2026-03-03,Mercyhurst,St. Bonaventure,9,12,-3,b,St. Bonaventure,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L505; 2026:L782
+2026|2026-03-03|Monmouth|NJIT,2026,2026-03-03,Monmouth,NJIT,5,9,-4,b,NJIT,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L543; 2026:L568
+2026|2026-03-06|Army West Point|Lafayette,2026,2026-03-06,Army West Point,Lafayette,9,10,-1,b,Lafayette,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L20; 2026:L379
+2026|2026-03-06|Delaware|Maryland,2026,2026-03-06,Delaware,Maryland,8,13,-5,b,Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L167; 2026:L466
+2026|2026-03-07|Air Force|Duke,2026,2026-03-07,Air Force,Duke,6,21,-15,b,Duke,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L7; 2026:L216
+2026|2026-03-07|Bellarmine|Robert Morris,2026,2026-03-07,Bellarmine,Robert Morris,11,14,-3,b,Robert Morris,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L35; 2026:L719
+2026|2026-03-07|Binghamton|Stony Brook,2026,2026-03-07,Binghamton,Stony Brook,6,9,-3,b,Stony Brook,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L47; 2026:L808
+2026|2026-03-07|Boston U.|Lehigh,2026,2026-03-07,Boston U.,Lehigh,14,13,1,a,Boston U.,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L59; 2026:L404
+2026|2026-03-07|Brown|North Carolina,2026,2026-03-07,Brown,North Carolina,7,19,-12,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L70; 2026:L595
+2026|2026-03-07|Bryant|St. John's (NY),2026,2026-03-07,Bryant,St. John's (NY),11,7,4,a,Bryant,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L82; 2026:L795
+2026|2026-03-07|Bucknell|Navy,2026,2026-03-07,Bucknell,Navy,12,16,-4,b,Navy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L95; 2026:L581
+2026|2026-03-07|Canisius|Iona,2026,2026-03-07,Canisius,Iona,10,5,5,a,Canisius,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L107; 2026:L329
+2026|2026-03-07|Cleveland St.|St. Bonaventure,2026,2026-03-07,Cleveland St.,St. Bonaventure,12,11,1,a,Cleveland St.,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L120; 2026:L783
+2026|2026-03-07|Colgate|Holy Cross,2026,2026-03-07,Colgate,Holy Cross,10,11,-1,b,Holy Cross,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L131; 2026:L314
+2026|2026-03-07|Cornell|Penn St.,2026,2026-03-07,Cornell,Penn St.,7,19,-12,b,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L142; 2026:L642
+2026|2026-03-07|Dartmouth|Utah,2026,2026-03-07,Dartmouth,Utah,10,17,-7,b,Utah,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L154; 2026:L881
+2026|2026-03-07|Detroit Mercy|Jacksonville,2026,2026-03-07,Detroit Mercy,Jacksonville,4,18,-14,b,Jacksonville,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L191; 2026:L342
+2026|2026-03-07|Drexel|Saint Joseph's,2026,2026-03-07,Drexel,Saint Joseph's,7,10,-3,b,Saint Joseph's,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L204; 2026:L757
+2026|2026-03-07|Fairfield|Yale,2026,2026-03-07,Fairfield,Yale,14,15,-1,b,Yale,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L228; 2026:L952
+2026|2026-03-07|Georgetown|Richmond,2026,2026-03-07,Georgetown,Richmond,10,14,-4,b,Richmond,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L239; 2026:L705
+2026|2026-03-07|Hampton|Mercyhurst,2026,2026-03-07,Hampton,Mercyhurst,12,15,-3,b,Mercyhurst,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L252; 2026:L506
+2026|2026-03-07|Harvard|Michigan,2026,2026-03-07,Harvard,Michigan,17,7,10,a,Harvard,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L263; 2026:L532
+2026|2026-03-07|Hobart|UAlbany,2026,2026-03-07,Hobart,UAlbany,10,14,-4,b,UAlbany,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L288; 2026:L845
+2026|2026-03-07|Hofstra|UMBC,2026,2026-03-07,Hofstra,UMBC,11,10,1,a,Hofstra,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L300; 2026:L858
+2026|2026-03-07|Johns Hopkins|Syracuse,2026,2026-03-07,Johns Hopkins,Syracuse,8,12,-4,b,Syracuse,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L354; 2026:L821
+2026|2026-03-07|LIU|Queens (NC),2026,2026-03-07,LIU,Queens (NC),13,9,4,a,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L366; 2026:L680
+2026|2026-03-07|Le Moyne|Manhattan,2026,2026-03-07,Le Moyne,Manhattan,11,12,-1,b,Manhattan,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L392; 2026:L430
+2026|2026-03-07|Loyola Maryland|Providence,2026,2026-03-07,Loyola Maryland,Providence,15,9,6,a,Loyola Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L417; 2026:L667
+2026|2026-03-07|Marist|Mount St. Mary's,2026,2026-03-07,Marist,Mount St. Mary's,16,9,7,a,Marist,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L442; 2026:L555
+2026|2026-03-07|Marquette|Mercer,2026,2026-03-07,Marquette,Mercer,21,12,9,a,Marquette,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L455; 2026:L493
+2026|2026-03-07|Massachusetts|Vermont,2026,2026-03-07,Massachusetts,Vermont,7,6,1,a,Massachusetts,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L480; 2026:L904
+2026|2026-03-07|Merrimack|Sacred Heart,2026,2026-03-07,Merrimack,Sacred Heart,10,12,-2,b,Sacred Heart,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L519; 2026:L745
+2026|2026-03-07|Monmouth|VMI,2026,2026-03-07,Monmouth,VMI,8,9,-1,b,VMI,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L544; 2026:L893
+2026|2026-03-07|NJIT|Wagner,2026,2026-03-07,NJIT,Wagner,12,14,-2,b,Wagner,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L569; 2026:L941
+2026|2026-03-07|Notre Dame|Ohio St.,2026,2026-03-07,Notre Dame,Ohio St.,9,8,1,a,Notre Dame,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L606; 2026:L618
+2026|2026-03-07|Princeton|Rutgers,2026,2026-03-07,Princeton,Rutgers,20,9,11,a,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L653; 2026:L732
+2026|2026-03-07|Quinnipiac|Siena,2026,2026-03-07,Quinnipiac,Siena,11,18,-7,b,Siena,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L692; 2026:L769
+2026|2026-03-07|Towson|Virginia,2026,2026-03-07,Towson,Virginia,13,9,4,a,Towson,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L834; 2026:L928
+2026|2026-03-08|Penn|Villanova,2026,2026-03-08,Penn,Villanova,10,6,4,a,Penn,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L630; 2026:L916
+2026|2026-03-10|Canisius|St. Bonaventure,2026,2026-03-10,Canisius,St. Bonaventure,10,11,-1,b,St. Bonaventure,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L108; 2026:L784
+2026|2026-03-10|Dartmouth|Fairfield,2026,2026-03-10,Dartmouth,Fairfield,16,10,6,a,Dartmouth,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L155; 2026:L229
+2026|2026-03-10|Georgetown|UAlbany,2026,2026-03-10,Georgetown,UAlbany,16,8,8,a,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L240; 2026:L846
+2026|2026-03-10|Hobart|Le Moyne,2026,2026-03-10,Hobart,Le Moyne,12,7,5,a,Hobart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L289; 2026:L393
+2026|2026-03-10|Jacksonville|Navy,2026,2026-03-10,Jacksonville,Navy,9,10,-1,b,Navy,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L343; 2026:L582
+2026|2026-03-10|Queens (NC)|UMass Lowell,2026,2026-03-10,Queens (NC),UMass Lowell,8,5,3,a,Queens (NC),0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L681; 2026:L869
+2026|2026-03-10|Rutgers|St. John's (NY),2026,2026-03-10,Rutgers,St. John's (NY),19,4,15,a,Rutgers,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L733; 2026:L796
+2026|2026-03-11|Marquette|Utah,2026,2026-03-11,Marquette,Utah,7,16,-9,b,Utah,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L456; 2026:L882
+2026|2026-03-12|Air Force|Syracuse,2026,2026-03-12,Air Force,Syracuse,11,17,-6,b,Syracuse,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L8; 2026:L822
+2026|2026-03-12|Denver|Ohio St.,2026,2026-03-12,Denver,Ohio St.,4,6,-2,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L179; 2026:L619
+2026|2026-03-13|Hofstra|Stony Brook,2026,2026-03-13,Hofstra,Stony Brook,7,12,-5,b,Stony Brook,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L301; 2026:L809
+2026|2026-03-14|Army West Point|Boston U.,2026,2026-03-14,Army West Point,Boston U.,8,10,-2,b,Boston U.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L21; 2026:L60
+2026|2026-03-14|Bellarmine|Rutgers,2026,2026-03-14,Bellarmine,Rutgers,8,21,-13,b,Rutgers,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L36; 2026:L734
+2026|2026-03-14|Binghamton|UMass Lowell,2026,2026-03-14,Binghamton,UMass Lowell,16,9,7,a,Binghamton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L48; 2026:L870
+2026|2026-03-14|Brown|Cornell,2026,2026-03-14,Brown,Cornell,9,18,-9,b,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L71; 2026:L143
+2026|2026-03-14|Bryant|UAlbany,2026,2026-03-14,Bryant,UAlbany,7,13,-6,b,UAlbany,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L83; 2026:L847
+2026|2026-03-14|Bucknell|Colgate,2026,2026-03-14,Bucknell,Colgate,14,12,2,a,Bucknell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L96; 2026:L132
+2026|2026-03-14|Canisius|Quinnipiac,2026,2026-03-14,Canisius,Quinnipiac,9,8,1,a,Canisius,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L109; 2026:L693
+2026|2026-03-14|Cleveland St.|Mercyhurst,2026,2026-03-14,Cleveland St.,Mercyhurst,14,6,8,a,Cleveland St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L121; 2026:L507
+2026|2026-03-14|Delaware|Richmond,2026,2026-03-14,Delaware,Richmond,5,17,-12,b,Richmond,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L168; 2026:L706
+2026|2026-03-14|Detroit Mercy|Robert Morris,2026,2026-03-14,Detroit Mercy,Robert Morris,6,11,-5,b,Robert Morris,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L192; 2026:L720
+2026|2026-03-14|Drexel|Monmouth,2026,2026-03-14,Drexel,Monmouth,12,8,4,a,Drexel,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L205; 2026:L545
+2026|2026-03-14|Duke|Providence,2026,2026-03-14,Duke,Providence,21,5,16,a,Duke,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L217; 2026:L668
+2026|2026-03-14|Fairfield|Hampton,2026,2026-03-14,Fairfield,Hampton,26,7,19,a,Fairfield,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L230; 2026:L253
+2026|2026-03-14|Harvard|Penn,2026,2026-03-14,Harvard,Penn,12,9,3,a,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L264; 2026:L631
+2026|2026-03-14|High Point|Massachusetts,2026,2026-03-14,High Point,Massachusetts,15,7,8,a,High Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L277; 2026:L481
+2026|2026-03-14|Holy Cross|Lafayette,2026,2026-03-14,Holy Cross,Lafayette,11,9,2,a,Holy Cross,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L315; 2026:L380
+2026|2026-03-14|Iona|Manhattan,2026,2026-03-14,Iona,Manhattan,16,12,4,a,Iona,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L330; 2026:L431
+2026|2026-03-14|Jacksonville|NJIT,2026,2026-03-14,Jacksonville,NJIT,9,6,3,a,Jacksonville,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L344; 2026:L570
+2026|2026-03-14|Johns Hopkins|Navy,2026,2026-03-14,Johns Hopkins,Navy,14,10,4,a,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L355; 2026:L583
+2026|2026-03-14|LIU|Wagner,2026,2026-03-14,LIU,Wagner,20,6,14,a,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L367; 2026:L942
+2026|2026-03-14|Le Moyne|VMI,2026,2026-03-14,Le Moyne,VMI,13,12,1,a,Le Moyne,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L394; 2026:L894
+2026|2026-03-14|Lehigh|Loyola Maryland,2026,2026-03-14,Lehigh,Loyola Maryland,15,10,5,a,Lehigh,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L405; 2026:L418
+2026|2026-03-14|Marist|Merrimack,2026,2026-03-14,Marist,Merrimack,10,9,1,a,Marist,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L443; 2026:L520
+2026|2026-03-14|Maryland|Virginia,2026,2026-03-14,Maryland,Virginia,13,12,1,a,Maryland,3,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L467; 2026:L929
+2026|2026-03-14|Mercer|St. John's (NY),2026,2026-03-14,Mercer,St. John's (NY),12,11,1,a,Mercer,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L494; 2026:L797
+2026|2026-03-14|Michigan|Notre Dame,2026,2026-03-14,Michigan,Notre Dame,4,9,-5,b,Notre Dame,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L533; 2026:L607
+2026|2026-03-14|Mount St. Mary's|Sacred Heart,2026,2026-03-14,Mount St. Mary's,Sacred Heart,9,17,-8,b,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L556; 2026:L746
+2026|2026-03-14|North Carolina|Penn St.,2026,2026-03-14,North Carolina,Penn St.,10,8,2,a,North Carolina,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L596; 2026:L643
+2026|2026-03-14|Princeton|Yale,2026,2026-03-14,Princeton,Yale,11,10,1,a,Princeton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L654; 2026:L953
+2026|2026-03-14|Saint Joseph's|St. Bonaventure,2026,2026-03-14,Saint Joseph's,St. Bonaventure,24,6,18,a,Saint Joseph's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L758; 2026:L785
+2026|2026-03-14|Towson|Villanova,2026,2026-03-14,Towson,Villanova,17,11,6,a,Towson,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L835; 2026:L917
+2026|2026-03-14|UMBC|Vermont,2026,2026-03-14,UMBC,Vermont,5,10,-5,b,Vermont,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L859; 2026:L905
+2026|2026-03-16|Denver|Syracuse,2026,2026-03-16,Denver,Syracuse,12,13,-1,b,Syracuse,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L180; 2026:L823
+2026|2026-03-17|Brown|UMass Lowell,2026,2026-03-17,Brown,UMass Lowell,13,6,7,a,Brown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L72; 2026:L871
+2026|2026-03-17|Georgetown|Loyola Maryland,2026,2026-03-17,Georgetown,Loyola Maryland,14,7,7,a,Georgetown,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L241; 2026:L419
+2026|2026-03-17|Lehigh|Villanova,2026,2026-03-17,Lehigh,Villanova,14,7,7,a,Lehigh,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L406; 2026:L918
+2026|2026-03-18|Providence|Quinnipiac,2026,2026-03-18,Providence,Quinnipiac,12,3,9,a,Providence,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L669; 2026:L694
+2026|2026-03-20|Dartmouth|Harvard,2026,2026-03-20,Dartmouth,Harvard,14,17,-3,b,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L156; 2026:L265
+2026|2026-03-20|Lafayette|Navy,2026,2026-03-20,Lafayette,Navy,9,15,-6,b,Navy,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L381; 2026:L584
+2026|2026-03-21|Air Force|Providence,2026,2026-03-21,Air Force,Providence,18,17,1,a,Air Force,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L9; 2026:L670
+2026|2026-03-21|Army West Point|North Carolina,2026,2026-03-21,Army West Point,North Carolina,11,12,-1,b,North Carolina,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L22; 2026:L597
+2026|2026-03-21|Bellarmine|Marquette,2026,2026-03-21,Bellarmine,Marquette,10,15,-5,b,Marquette,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L37; 2026:L457
+2026|2026-03-21|Binghamton|NJIT,2026,2026-03-21,Binghamton,NJIT,7,13,-6,b,NJIT,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L49; 2026:L571
+2026|2026-03-21|Boston U.|Colgate,2026,2026-03-21,Boston U.,Colgate,12,14,-2,b,Colgate,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L61; 2026:L133
+2026|2026-03-21|Brown|St. John's (NY),2026,2026-03-21,Brown,St. John's (NY),13,8,5,a,Brown,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L73; 2026:L798
+2026|2026-03-21|Bryant|Vermont,2026,2026-03-21,Bryant,Vermont,11,8,3,a,Bryant,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L84; 2026:L906
+2026|2026-03-21|Bucknell|Loyola Maryland,2026,2026-03-21,Bucknell,Loyola Maryland,12,13,-1,b,Loyola Maryland,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L97; 2026:L420
+2026|2026-03-21|Canisius|Sacred Heart,2026,2026-03-21,Canisius,Sacred Heart,6,18,-12,b,Sacred Heart,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L110; 2026:L747
+2026|2026-03-21|Cleveland St.|Robert Morris,2026,2026-03-21,Cleveland St.,Robert Morris,6,11,-5,b,Robert Morris,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L122; 2026:L721
+2026|2026-03-21|Cornell|Princeton,2026,2026-03-21,Cornell,Princeton,13,11,2,a,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L144; 2026:L655
+2026|2026-03-21|Delaware|High Point,2026,2026-03-21,Delaware,High Point,8,12,-4,b,High Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L169; 2026:L278
+2026|2026-03-21|Detroit Mercy|Wagner,2026,2026-03-21,Detroit Mercy,Wagner,8,9,-1,b,Wagner,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L193; 2026:L943
+2026|2026-03-21|Drexel|Fairfield,2026,2026-03-21,Drexel,Fairfield,13,11,2,a,Drexel,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L206; 2026:L231
+2026|2026-03-21|Hampton|Queens (NC),2026,2026-03-21,Hampton,Queens (NC),7,21,-14,b,Queens (NC),0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L254; 2026:L682
+2026|2026-03-21|Hobart|Saint Joseph's,2026,2026-03-21,Hobart,Saint Joseph's,7,17,-10,b,Saint Joseph's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L290; 2026:L759
+2026|2026-03-21|Hofstra|Monmouth,2026,2026-03-21,Hofstra,Monmouth,12,13,-1,b,Monmouth,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L302; 2026:L546
+2026|2026-03-21|Holy Cross|Lehigh,2026,2026-03-21,Holy Cross,Lehigh,5,13,-8,b,Lehigh,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L316; 2026:L407
+2026|2026-03-21|Iona|Marist,2026,2026-03-21,Iona,Marist,6,17,-11,b,Marist,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L331; 2026:L444
+2026|2026-03-21|Johns Hopkins|Michigan,2026,2026-03-21,Johns Hopkins,Michigan,14,8,6,a,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L356; 2026:L534
+2026|2026-03-21|LIU|Le Moyne,2026,2026-03-21,LIU,Le Moyne,9,5,4,a,LIU,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L368; 2026:L395
+2026|2026-03-21|Manhattan|Siena,2026,2026-03-21,Manhattan,Siena,9,15,-6,b,Siena,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L432; 2026:L770
+2026|2026-03-21|Maryland|Penn St.,2026,2026-03-21,Maryland,Penn St.,6,10,-4,b,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L468; 2026:L644
+2026|2026-03-21|Massachusetts|Richmond,2026,2026-03-21,Massachusetts,Richmond,7,21,-14,b,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L482; 2026:L707
+2026|2026-03-21|Mercyhurst|VMI,2026,2026-03-21,Mercyhurst,VMI,13,19,-6,b,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L508; 2026:L895
+2026|2026-03-21|Merrimack|Mount St. Mary's,2026,2026-03-21,Merrimack,Mount St. Mary's,9,8,1,a,Merrimack,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L521; 2026:L557
+2026|2026-03-21|Ohio St.|Rutgers,2026,2026-03-21,Ohio St.,Rutgers,6,5,1,a,Ohio St.,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L620; 2026:L735
+2026|2026-03-21|Penn|Yale,2026,2026-03-21,Penn,Yale,9,7,2,a,Penn,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L632; 2026:L954
+2026|2026-03-21|Stony Brook|Towson,2026,2026-03-21,Stony Brook,Towson,10,13,-3,b,Towson,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L810; 2026:L836
+2026|2026-03-21|UAlbany|UMBC,2026,2026-03-21,UAlbany,UMBC,10,6,4,a,UAlbany,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L848; 2026:L860
+2026|2026-03-21|Utah|Virginia,2026,2026-03-21,Utah,Virginia,11,16,-5,b,Virginia,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L883; 2026:L930
+2026|2026-03-22|Denver|Duke,2026,2026-03-22,Denver,Duke,7,8,-1,b,Duke,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L181; 2026:L218
+2026|2026-03-22|Georgetown|Syracuse,2026,2026-03-22,Georgetown,Syracuse,12,18,-6,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L242; 2026:L824
+2026|2026-03-23|Dartmouth|Virginia,2026,2026-03-23,Dartmouth,Virginia,7,18,-11,b,Virginia,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L157; 2026:L931
+2026|2026-03-24|Boston U.|Harvard,2026,2026-03-24,Boston U.,Harvard,11,14,-3,b,Harvard,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L62; 2026:L266
+2026|2026-03-25|Iona|Mount St. Mary's,2026,2026-03-25,Iona,Mount St. Mary's,15,14,1,a,Iona,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L332; 2026:L558
+2026|2026-03-25|Manhattan|Sacred Heart,2026,2026-03-25,Manhattan,Sacred Heart,5,13,-8,b,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L433; 2026:L748
+2026|2026-03-25|Marist|Siena,2026,2026-03-25,Marist,Siena,10,11,-1,b,Siena,2,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L445; 2026:L771
+2026|2026-03-25|Merrimack|Quinnipiac,2026,2026-03-25,Merrimack,Quinnipiac,9,13,-4,b,Quinnipiac,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L522; 2026:L695
+2026|2026-03-28|Air Force|Jacksonville,2026,2026-03-28,Air Force,Jacksonville,10,16,-6,b,Jacksonville,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L10; 2026:L345
+2026|2026-03-28|Army West Point|Lehigh,2026,2026-03-28,Army West Point,Lehigh,14,11,3,a,Army West Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L23; 2026:L408
+2026|2026-03-28|Bellarmine|Utah,2026,2026-03-28,Bellarmine,Utah,14,20,-6,b,Utah,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L38; 2026:L884
+2026|2026-03-28|Binghamton|Delaware,2026,2026-03-28,Binghamton,Delaware,4,9,-5,b,Delaware,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L50; 2026:L170
+2026|2026-03-28|Brown|Princeton,2026,2026-03-28,Brown,Princeton,14,20,-6,b,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L74; 2026:L656
+2026|2026-03-28|Bryant|UMBC,2026,2026-03-28,Bryant,UMBC,11,12,-1,b,UMBC,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L85; 2026:L861
+2026|2026-03-28|Bucknell|Lafayette,2026,2026-03-28,Bucknell,Lafayette,14,13,1,a,Bucknell,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L98; 2026:L382
+2026|2026-03-28|Canisius|Siena,2026,2026-03-28,Canisius,Siena,5,13,-8,b,Siena,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L111; 2026:L772
+2026|2026-03-28|Cleveland St.|VMI,2026,2026-03-28,Cleveland St.,VMI,20,7,13,a,Cleveland St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L123; 2026:L896
+2026|2026-03-28|Colgate|Navy,2026,2026-03-28,Colgate,Navy,16,15,1,a,Colgate,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L134; 2026:L585
+2026|2026-03-28|Cornell|Yale,2026,2026-03-28,Cornell,Yale,12,13,-1,b,Yale,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L145; 2026:L955
+2026|2026-03-28|Dartmouth|Penn,2026,2026-03-28,Dartmouth,Penn,14,16,-2,b,Penn,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L158; 2026:L633
+2026|2026-03-28|Denver|Georgetown,2026,2026-03-28,Denver,Georgetown,5,17,-12,b,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L182; 2026:L243
+2026|2026-03-28|Detroit Mercy|LIU,2026,2026-03-28,Detroit Mercy,LIU,7,9,-2,b,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L194; 2026:L369
+2026|2026-03-28|Drexel|Towson,2026,2026-03-28,Drexel,Towson,10,14,-4,b,Towson,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L207; 2026:L837
+2026|2026-03-28|Duke|Syracuse,2026,2026-03-28,Duke,Syracuse,15,16,-1,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L219; 2026:L825
+2026|2026-03-28|Fairfield|Stony Brook,2026,2026-03-28,Fairfield,Stony Brook,10,16,-6,b,Stony Brook,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L232; 2026:L811
+2026|2026-03-28|Hampton|Monmouth,2026,2026-03-28,Hampton,Monmouth,10,20,-10,b,Monmouth,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L255; 2026:L547
+2026|2026-03-28|High Point|Saint Joseph's,2026,2026-03-28,High Point,Saint Joseph's,16,15,1,a,High Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L279; 2026:L760
+2026|2026-03-28|Hobart|Richmond,2026,2026-03-28,Hobart,Richmond,8,24,-16,b,Richmond,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L291; 2026:L708
+2026|2026-03-28|Hofstra|Sacred Heart,2026,2026-03-28,Hofstra,Sacred Heart,13,15,-2,b,Sacred Heart,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L303; 2026:L749
+2026|2026-03-28|Holy Cross|Loyola Maryland,2026,2026-03-28,Holy Cross,Loyola Maryland,8,10,-2,b,Loyola Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L317; 2026:L421
+2026|2026-03-28|Iona|Merrimack,2026,2026-03-28,Iona,Merrimack,10,11,-1,b,Merrimack,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L333; 2026:L523
+2026|2026-03-28|Le Moyne|Robert Morris,2026,2026-03-28,Le Moyne,Robert Morris,4,19,-15,b,Robert Morris,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L396; 2026:L722
+2026|2026-03-28|Manhattan|Mount St. Mary's,2026,2026-03-28,Manhattan,Mount St. Mary's,9,10,-1,b,Mount St. Mary's,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L434; 2026:L559
+2026|2026-03-28|Marist|Quinnipiac,2026,2026-03-28,Marist,Quinnipiac,13,12,1,a,Marist,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L446; 2026:L696
+2026|2026-03-28|Marquette|Providence,2026,2026-03-28,Marquette,Providence,14,13,1,a,Marquette,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L458; 2026:L671
+2026|2026-03-28|Maryland|Michigan,2026,2026-03-28,Maryland,Michigan,14,8,6,a,Maryland,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L469; 2026:L535
+2026|2026-03-28|Massachusetts|St. Bonaventure,2026,2026-03-28,Massachusetts,St. Bonaventure,9,7,2,a,Massachusetts,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L483; 2026:L786
+2026|2026-03-28|Mercer|Queens (NC),2026,2026-03-28,Mercer,Queens (NC),7,4,3,a,Mercer,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L495; 2026:L683
+2026|2026-03-28|Mercyhurst|Wagner,2026,2026-03-28,Mercyhurst,Wagner,6,7,-1,b,Wagner,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L509; 2026:L944
+2026|2026-03-28|NJIT|Vermont,2026,2026-03-28,NJIT,Vermont,5,14,-9,b,Vermont,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L572; 2026:L907
+2026|2026-03-28|Notre Dame|Virginia,2026,2026-03-28,Notre Dame,Virginia,9,11,-2,b,Virginia,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L608; 2026:L932
+2026|2026-03-28|Ohio St.|Penn St.,2026,2026-03-28,Ohio St.,Penn St.,6,13,-7,b,Penn St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L621; 2026:L645
+2026|2026-03-28|St. John's (NY)|Villanova,2026,2026-03-28,St. John's (NY),Villanova,7,21,-14,b,Villanova,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L799; 2026:L919
+2026|2026-03-28|UAlbany|UMass Lowell,2026,2026-03-28,UAlbany,UMass Lowell,13,7,6,a,UAlbany,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L849; 2026:L872
+2026|2026-03-29|Harvard|North Carolina,2026,2026-03-29,Harvard,North Carolina,7,17,-10,b,North Carolina,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L267; 2026:L598
+2026|2026-03-29|Johns Hopkins|Rutgers,2026,2026-03-29,Johns Hopkins,Rutgers,8,9,-1,b,Rutgers,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L357; 2026:L736
+2026|2026-03-31|Lehigh|Princeton,2026,2026-03-31,Lehigh,Princeton,8,15,-7,b,Princeton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L409; 2026:L657
+2026|2026-04-03|Manhattan|Merrimack,2026,2026-04-03,Manhattan,Merrimack,9,11,-2,b,Merrimack,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L435; 2026:L524
+2026|2026-04-04|Air Force|Bellarmine,2026,2026-04-04,Air Force,Bellarmine,13,12,1,a,Air Force,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L11; 2026:L39
+2026|2026-04-04|Army West Point|Bucknell,2026,2026-04-04,Army West Point,Bucknell,14,8,6,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L24; 2026:L99
+2026|2026-04-04|Binghamton|UAlbany,2026,2026-04-04,Binghamton,UAlbany,5,16,-11,b,UAlbany,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L51; 2026:L850
+2026|2026-04-04|Boston U.|Loyola Maryland,2026,2026-04-04,Boston U.,Loyola Maryland,11,19,-8,b,Loyola Maryland,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L63; 2026:L422
+2026|2026-04-04|Brown|Harvard,2026,2026-04-04,Brown,Harvard,10,12,-2,b,Harvard,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L75; 2026:L268
+2026|2026-04-04|Bryant|NJIT,2026,2026-04-04,Bryant,NJIT,14,9,5,a,Bryant,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L86; 2026:L573
+2026|2026-04-04|Canisius|Mount St. Mary's,2026,2026-04-04,Canisius,Mount St. Mary's,10,12,-2,b,Mount St. Mary's,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L112; 2026:L560
+2026|2026-04-04|Cleveland St.|Wagner,2026,2026-04-04,Cleveland St.,Wagner,10,9,1,a,Cleveland St.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L124; 2026:L945
+2026|2026-04-04|Colgate|Lafayette,2026,2026-04-04,Colgate,Lafayette,11,8,3,a,Colgate,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L135; 2026:L383
+2026|2026-04-04|Cornell|Penn,2026,2026-04-04,Cornell,Penn,16,8,8,a,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L146; 2026:L634
+2026|2026-04-04|Dartmouth|Yale,2026,2026-04-04,Dartmouth,Yale,7,18,-11,b,Yale,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L159; 2026:L956
+2026|2026-04-04|Delaware|Hobart,2026,2026-04-04,Delaware,Hobart,12,6,6,a,Delaware,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L171; 2026:L292
+2026|2026-04-04|Denver|Villanova,2026,2026-04-04,Denver,Villanova,7,9,-2,b,Villanova,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L183; 2026:L920
+2026|2026-04-04|Detroit Mercy|Le Moyne,2026,2026-04-04,Detroit Mercy,Le Moyne,4,6,-2,b,Le Moyne,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L195; 2026:L397
+2026|2026-04-04|Drexel|Hampton,2026,2026-04-04,Drexel,Hampton,22,6,16,a,Drexel,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L208; 2026:L256
+2026|2026-04-04|Duke|Virginia,2026,2026-04-04,Duke,Virginia,10,14,-4,b,Virginia,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L220; 2026:L933
+2026|2026-04-04|Fairfield|Hofstra,2026,2026-04-04,Fairfield,Hofstra,6,13,-7,b,Hofstra,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L233; 2026:L304
+2026|2026-04-04|Georgetown|Providence,2026,2026-04-04,Georgetown,Providence,15,8,7,a,Georgetown,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L244; 2026:L672
+2026|2026-04-04|High Point|St. Bonaventure,2026,2026-04-04,High Point,St. Bonaventure,19,8,11,a,High Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L280; 2026:L787
+2026|2026-04-04|Holy Cross|Navy,2026,2026-04-04,Holy Cross,Navy,13,20,-7,b,Navy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L318; 2026:L586
+2026|2026-04-04|Iona|Siena,2026,2026-04-04,Iona,Siena,7,24,-17,b,Siena,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L334; 2026:L773
+2026|2026-04-04|Jacksonville|Queens (NC),2026,2026-04-04,Jacksonville,Queens (NC),14,1,13,a,Jacksonville,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L346; 2026:L684
+2026|2026-04-04|Johns Hopkins|Penn St.,2026,2026-04-04,Johns Hopkins,Penn St.,11,10,1,a,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L358; 2026:L646
+2026|2026-04-04|LIU|Mercyhurst,2026,2026-04-04,LIU,Mercyhurst,25,6,19,a,LIU,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L370; 2026:L510
+2026|2026-04-04|Marist|Stony Brook,2026,2026-04-04,Marist,Stony Brook,11,14,-3,b,Stony Brook,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L447; 2026:L812
+2026|2026-04-04|Marquette|St. John's (NY),2026,2026-04-04,Marquette,St. John's (NY),11,10,1,a,Marquette,2,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L459; 2026:L800
+2026|2026-04-04|Maryland|Ohio St.,2026,2026-04-04,Maryland,Ohio St.,8,7,1,a,Maryland,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L470; 2026:L622
+2026|2026-04-04|Massachusetts|Saint Joseph's,2026,2026-04-04,Massachusetts,Saint Joseph's,14,12,2,a,Massachusetts,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L484; 2026:L761
+2026|2026-04-04|Mercer|Utah,2026,2026-04-04,Mercer,Utah,14,24,-10,b,Utah,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L496; 2026:L885
+2026|2026-04-04|Monmouth|Towson,2026,2026-04-04,Monmouth,Towson,10,15,-5,b,Towson,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L548; 2026:L838
+2026|2026-04-04|North Carolina|Syracuse,2026,2026-04-04,North Carolina,Syracuse,14,9,5,a,North Carolina,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L599; 2026:L826
+2026|2026-04-04|Notre Dame|Richmond,2026,2026-04-04,Notre Dame,Richmond,12,8,4,a,Notre Dame,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L609; 2026:L709
+2026|2026-04-04|Princeton|Vermont,2026,2026-04-04,Princeton,Vermont,19,5,14,a,Princeton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L658; 2026:L908
+2026|2026-04-04|Quinnipiac|Sacred Heart,2026,2026-04-04,Quinnipiac,Sacred Heart,16,14,2,a,Quinnipiac,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L697; 2026:L750
+2026|2026-04-04|Robert Morris|VMI,2026,2026-04-04,Robert Morris,VMI,20,9,11,a,Robert Morris,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L723; 2026:L897
+2026|2026-04-04|UMBC|UMass Lowell,2026,2026-04-04,UMBC,UMass Lowell,18,4,14,a,UMBC,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L862; 2026:L873
+2026|2026-04-05|Michigan|Rutgers,2026,2026-04-05,Michigan,Rutgers,13,10,3,a,Michigan,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L536; 2026:L737
+2026|2026-04-10|Colgate|Lehigh,2026,2026-04-10,Colgate,Lehigh,9,7,2,a,Colgate,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L136; 2026:L410
+2026|2026-04-11|Air Force|Queens (NC),2026,2026-04-11,Air Force,Queens (NC),17,7,10,a,Air Force,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L12; 2026:L685
+2026|2026-04-11|Army West Point|Navy,2026,2026-04-11,Army West Point,Navy,14,9,5,a,Army West Point,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L25; 2026:L587
+2026|2026-04-11|Bellarmine|Mercer,2026,2026-04-11,Bellarmine,Mercer,17,18,-1,b,Mercer,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L40; 2026:L497
+2026|2026-04-11|Binghamton|UMBC,2026,2026-04-11,Binghamton,UMBC,8,14,-6,b,UMBC,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L52; 2026:L863
+2026|2026-04-11|Boston U.|Bucknell,2026,2026-04-11,Boston U.,Bucknell,13,12,1,a,Boston U.,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L64; 2026:L100
+2026|2026-04-11|Brown|Dartmouth,2026,2026-04-11,Brown,Dartmouth,17,16,1,a,Brown,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L76; 2026:L160
+2026|2026-04-11|Bryant|Iona,2026,2026-04-11,Bryant,Iona,17,6,11,a,Bryant,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L87; 2026:L335
+2026|2026-04-11|Canisius|Merrimack,2026,2026-04-11,Canisius,Merrimack,9,13,-4,b,Merrimack,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L113; 2026:L525
+2026|2026-04-11|Cleveland St.|Detroit Mercy,2026,2026-04-11,Cleveland St.,Detroit Mercy,8,10,-2,b,Detroit Mercy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L125; 2026:L196
+2026|2026-04-11|Cornell|Duke,2026,2026-04-11,Cornell,Duke,9,7,2,a,Cornell,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L147; 2026:L221
+2026|2026-04-11|Delaware|Massachusetts,2026,2026-04-11,Delaware,Massachusetts,8,7,1,a,Delaware,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L172; 2026:L485
+2026|2026-04-11|Denver|St. John's (NY),2026,2026-04-11,Denver,St. John's (NY),15,9,6,a,Denver,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L184; 2026:L801
+2026|2026-04-11|Drexel|Hofstra,2026,2026-04-11,Drexel,Hofstra,17,8,9,a,Drexel,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L209; 2026:L305
+2026|2026-04-11|Fairfield|Holy Cross,2026,2026-04-11,Fairfield,Holy Cross,12,13,-1,b,Holy Cross,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L234; 2026:L319
+2026|2026-04-11|Georgetown|Marquette,2026,2026-04-11,Georgetown,Marquette,17,7,10,a,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L245; 2026:L460
+2026|2026-04-11|Hampton|Towson,2026,2026-04-11,Hampton,Towson,5,21,-16,b,Towson,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L257; 2026:L839
+2026|2026-04-11|Harvard|Yale,2026,2026-04-11,Harvard,Yale,9,15,-6,b,Yale,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L269; 2026:L957
+2026|2026-04-11|High Point|Hobart,2026,2026-04-11,High Point,Hobart,15,8,7,a,High Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L281; 2026:L293
+2026|2026-04-11|Jacksonville|Utah,2026,2026-04-11,Jacksonville,Utah,8,9,-1,b,Utah,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L347; 2026:L886
+2026|2026-04-11|Johns Hopkins|Ohio St.,2026,2026-04-11,Johns Hopkins,Ohio St.,6,7,-1,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L359; 2026:L623
+2026|2026-04-11|Lafayette|Loyola Maryland,2026,2026-04-11,Lafayette,Loyola Maryland,7,16,-9,b,Loyola Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L384; 2026:L423
+2026|2026-04-11|Le Moyne|Wagner,2026,2026-04-11,Le Moyne,Wagner,7,8,-1,b,Wagner,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L398; 2026:L946
+2026|2026-04-11|Manhattan|Marist,2026,2026-04-11,Manhattan,Marist,9,13,-4,b,Marist,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L436; 2026:L448
+2026|2026-04-11|Maryland|Rutgers,2026,2026-04-11,Maryland,Rutgers,12,2,10,a,Maryland,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L471; 2026:L738
+2026|2026-04-11|Mercyhurst|Robert Morris,2026,2026-04-11,Mercyhurst,Robert Morris,5,18,-13,b,Robert Morris,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L511; 2026:L724
+2026|2026-04-11|Michigan|Penn St.,2026,2026-04-11,Michigan,Penn St.,9,8,1,a,Michigan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L537; 2026:L647
+2026|2026-04-11|Monmouth|Stony Brook,2026,2026-04-11,Monmouth,Stony Brook,10,17,-7,b,Stony Brook,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L549; 2026:L813
+2026|2026-04-11|Mount St. Mary's|Quinnipiac,2026,2026-04-11,Mount St. Mary's,Quinnipiac,8,14,-6,b,Quinnipiac,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L561; 2026:L698
+2026|2026-04-11|NJIT|UMass Lowell,2026,2026-04-11,NJIT,UMass Lowell,10,8,2,a,NJIT,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L574; 2026:L874
+2026|2026-04-11|North Carolina|Notre Dame,2026,2026-04-11,North Carolina,Notre Dame,5,10,-5,b,Notre Dame,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L600; 2026:L610
+2026|2026-04-11|Penn|Princeton,2026,2026-04-11,Penn,Princeton,8,20,-12,b,Princeton,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L635; 2026:L659
+2026|2026-04-11|Providence|Villanova,2026,2026-04-11,Providence,Villanova,10,9,1,a,Providence,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L673; 2026:L921
+2026|2026-04-11|Richmond|St. Bonaventure,2026,2026-04-11,Richmond,St. Bonaventure,23,7,16,a,Richmond,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L710; 2026:L788
+2026|2026-04-11|Sacred Heart|Siena,2026,2026-04-11,Sacred Heart,Siena,11,15,-4,b,Siena,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L751; 2026:L774
+2026|2026-04-11|Syracuse|Virginia,2026,2026-04-11,Syracuse,Virginia,14,9,5,a,Syracuse,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L827; 2026:L934
+2026|2026-04-11|UAlbany|Vermont,2026,2026-04-11,UAlbany,Vermont,12,9,3,a,UAlbany,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L851; 2026:L909
+2026|2026-04-12|LIU|VMI,2026,2026-04-12,LIU,VMI,8,10,-2,b,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L371; 2026:L898
+2026|2026-04-13|Cornell|High Point,2026,2026-04-13,Cornell,High Point,17,9,8,a,Cornell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L148; 2026:L282
+2026|2026-04-14|Hofstra|Yale,2026,2026-04-14,Hofstra,Yale,9,16,-7,b,Yale,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L306; 2026:L958
+2026|2026-04-14|Siena|UAlbany,2026,2026-04-14,Siena,UAlbany,7,9,-2,b,UAlbany,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L775; 2026:L852
+2026|2026-04-17|Michigan|Ohio St.,2026,2026-04-17,Michigan,Ohio St.,8,9,-1,b,Ohio St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L538; 2026:L624
+2026|2026-04-17|Penn St.|Rutgers,2026,2026-04-17,Penn St.,Rutgers,16,8,8,a,Penn St.,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L648; 2026:L739
+2026|2026-04-18|Air Force|Mercer,2026,2026-04-18,Air Force,Mercer,17,9,8,a,Air Force,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L13; 2026:L498
+2026|2026-04-18|Army West Point|Loyola Maryland,2026,2026-04-18,Army West Point,Loyola Maryland,15,9,6,a,Army West Point,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L26; 2026:L424
+2026|2026-04-18|Bellarmine|Jacksonville,2026,2026-04-18,Bellarmine,Jacksonville,7,27,-20,b,Jacksonville,0,False,Home,Home,BOTH_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L41; 2026:L348
+2026|2026-04-18|Binghamton|Bryant,2026,2026-04-18,Binghamton,Bryant,6,8,-2,b,Bryant,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L53; 2026:L88
+2026|2026-04-18|Boston U.|Lafayette,2026,2026-04-18,Boston U.,Lafayette,13,2,11,a,Boston U.,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L65; 2026:L385
+2026|2026-04-18|Brown|Penn,2026,2026-04-18,Brown,Penn,11,12,-1,b,Penn,2,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L77; 2026:L636
+2026|2026-04-18|Bucknell|Holy Cross,2026,2026-04-18,Bucknell,Holy Cross,15,13,2,a,Bucknell,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L101; 2026:L320
+2026|2026-04-18|Canisius|Manhattan,2026,2026-04-18,Canisius,Manhattan,6,9,-3,b,Manhattan,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L114; 2026:L437
+2026|2026-04-18|Colgate|Syracuse,2026,2026-04-18,Colgate,Syracuse,7,14,-7,b,Syracuse,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L137; 2026:L828
+2026|2026-04-18|Cornell|Dartmouth,2026,2026-04-18,Cornell,Dartmouth,15,9,6,a,Cornell,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L149; 2026:L161
+2026|2026-04-18|Delaware|St. Bonaventure,2026,2026-04-18,Delaware,St. Bonaventure,19,16,3,a,Delaware,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L173; 2026:L789
+2026|2026-04-18|Denver|Providence,2026,2026-04-18,Denver,Providence,7,8,-1,b,Providence,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L185; 2026:L674
+2026|2026-04-18|Detroit Mercy|Mercyhurst,2026,2026-04-18,Detroit Mercy,Mercyhurst,11,6,5,a,Detroit Mercy,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L197; 2026:L512
+2026|2026-04-18|Drexel|Stony Brook,2026,2026-04-18,Drexel,Stony Brook,17,13,4,a,Drexel,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L210; 2026:L814
+2026|2026-04-18|Duke|Notre Dame,2026,2026-04-18,Duke,Notre Dame,6,7,-1,b,Notre Dame,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L222; 2026:L611
+2026|2026-04-18|Fairfield|Towson,2026,2026-04-18,Fairfield,Towson,5,12,-7,b,Towson,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L235; 2026:L840
+2026|2026-04-18|Georgetown|St. John's (NY),2026,2026-04-18,Georgetown,St. John's (NY),18,11,7,a,Georgetown,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L246; 2026:L802
+2026|2026-04-18|Hampton|Hofstra,2026,2026-04-18,Hampton,Hofstra,5,20,-15,b,Hofstra,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L258; 2026:L307
+2026|2026-04-18|Harvard|Princeton,2026,2026-04-18,Harvard,Princeton,14,15,-1,b,Princeton,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L270; 2026:L660
+2026|2026-04-18|Hobart|Massachusetts,2026,2026-04-18,Hobart,Massachusetts,12,13,-1,b,Massachusetts,2,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L294; 2026:L486
+2026|2026-04-18|Iona|Quinnipiac,2026,2026-04-18,Iona,Quinnipiac,7,19,-12,b,Quinnipiac,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L336; 2026:L699
+2026|2026-04-18|Johns Hopkins|Maryland,2026,2026-04-18,Johns Hopkins,Maryland,9,8,1,a,Johns Hopkins,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L360; 2026:L472
+2026|2026-04-18|LIU|Robert Morris,2026,2026-04-18,LIU,Robert Morris,10,14,-4,b,Robert Morris,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L372; 2026:L725
+2026|2026-04-18|Lehigh|Navy,2026,2026-04-18,Lehigh,Navy,19,7,12,a,Lehigh,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L411; 2026:L588
+2026|2026-04-18|Marist|Sacred Heart,2026,2026-04-18,Marist,Sacred Heart,14,13,1,a,Marist,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L449; 2026:L752
+2026|2026-04-18|Marquette|Villanova,2026,2026-04-18,Marquette,Villanova,15,16,-1,b,Villanova,1,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L461; 2026:L922
+2026|2026-04-18|Mount St. Mary's|Siena,2026,2026-04-18,Mount St. Mary's,Siena,12,14,-2,b,Siena,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L562; 2026:L776
+2026|2026-04-18|NJIT|UMBC,2026,2026-04-18,NJIT,UMBC,11,16,-5,b,UMBC,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L575; 2026:L864
+2026|2026-04-18|North Carolina|Virginia,2026,2026-04-18,North Carolina,Virginia,16,15,1,a,North Carolina,1,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L601; 2026:L935
+2026|2026-04-18|Queens (NC)|Utah,2026,2026-04-18,Queens (NC),Utah,0,18,-18,b,Utah,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L686; 2026:L887
+2026|2026-04-18|Richmond|Saint Joseph's,2026,2026-04-18,Richmond,Saint Joseph's,13,11,2,a,Richmond,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L711; 2026:L762
+2026|2026-04-18|UAlbany|Yale,2026,2026-04-18,UAlbany,Yale,2,15,-13,b,Yale,0,False,Away,Home,B_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L853; 2026:L959
+2026|2026-04-18|UMass Lowell|Vermont,2026,2026-04-18,UMass Lowell,Vermont,10,14,-4,b,Vermont,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L875; 2026:L910
+2026|2026-04-18|VMI|Wagner,2026,2026-04-18,VMI,Wagner,13,6,7,a,VMI,0,False,Home,Away,A_HOME,TWO_SIDED_AGREE,2,True,False,False,2026:L899; 2026:L947

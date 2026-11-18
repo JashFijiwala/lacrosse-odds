@@ -1,0 +1,13 @@
+path_category,files,bytes_metadata_only
+(root files),10,16272
+.git,218,798674
+.venv,11391,286258757
+audit_join,30,909480
+docs,7,43229
+elo_feas,129,1655580
+external,93,17117130
+pilot,72,2526910
+repo_prep,16,233941
+src,26,549538
+tests,22,543330
+tools,3,20557

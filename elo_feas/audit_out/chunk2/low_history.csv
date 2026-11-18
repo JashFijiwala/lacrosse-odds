@@ -1,0 +1,13 @@
+season,variant,n_scored,n_low_history,brier,log_loss,label
+2022,all games (reference),543,208,0.2192204147932553,0.6288160101626526,"diagnostic, no re-selection"
+2022,low-history excluded from scoring only,335,208,0.2070496428050361,0.6029452375409082,"diagnostic, no re-selection"
+2022,excluded from updates and scoring,335,208,0.2285536261967772,0.6488103392976525,"diagnostic, no re-selection"
+2023,all games (reference),561,12,0.1990165773646438,0.583879130622538,"diagnostic, no re-selection"
+2023,low-history excluded from scoring only,549,12,0.19603375404756954,0.5773237354199074,"diagnostic, no re-selection"
+2023,excluded from updates and scoring,549,12,0.20566860537979645,0.5991276728748965,"diagnostic, no re-selection"
+2024,all games (reference),570,5,0.18040613009122852,0.5399692888059634,"diagnostic, no re-selection"
+2024,low-history excluded from scoring only,565,5,0.17999622265770845,0.5391000230414568,"diagnostic, no re-selection"
+2024,excluded from updates and scoring,565,5,0.18600973477784294,0.5534658435781998,"diagnostic, no re-selection"
+2025,all games (recorded),409,10,0.18744887115275222,0.5557956901146994,"diagnostic, no re-selection"
+2025,low-history games only (recorded),10,10,0.35015336870260544,0.9400306397377193,"diagnostic, no re-selection"
+2025,low-history excluded from scoring (recorded),399,10,0.1833710641966155,0.5461657415025936,"diagnostic, no re-selection"

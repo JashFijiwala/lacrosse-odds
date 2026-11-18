@@ -1,0 +1,13 @@
+season,min_prior_games_bucket,n,brier,single_sided_in_bucket,label
+2023,0-4,12,0.3354807441207918,2,"diagnostic, no re-selection"
+2023,5-9,9,0.1628374195569133,0,"diagnostic, no re-selection"
+2023,10-19,228,0.19753674037211302,7,"diagnostic, no re-selection"
+2023,20+,312,0.19589300445917213,6,"diagnostic, no re-selection"
+2024,0-4,5,0.22672567007899597,5,"diagnostic, no re-selection"
+2024,5-9,5,0.2530646523373566,5,"diagnostic, no re-selection"
+2024,10-19,13,0.15826560519583716,0,"diagnostic, no re-selection"
+2024,20+,547,0.17984477088185127,12,"diagnostic, no re-selection"
+2025,0-4,10,0.35015336870260544,10,"diagnostic, no re-selection"
+2025,5-9,10,0.13711853906940835,10,"diagnostic, no re-selection"
+2025,10-19,12,0.18378390943896128,12,"diagnostic, no re-selection"
+2025,20+,377,0.18458478066442435,10,"diagnostic, no re-selection"

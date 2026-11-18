@@ -1,0 +1,3 @@
+season,date,game_key,team_a,team_b,flag_a,flag_b,sidedness,canonical_pattern,claimed_site_note,label
+2025,2025-03-02,2025-03-02|Queens (NC)|UMass Lowell,Queens (NC),UMass Lowell,Away,Away,TWO_SIDED,Away/Away,"user-supplied: Away/Away; neutral per both schools (Towson/Goucher, Md.); NOT verified by this audit","diagnostic, no re-selection"
+2026,2026-03-10,2026-03-10|Queens (NC)|UMass Lowell,Queens (NC),UMass Lowell,Away,Home,TWO_SIDED,Away/Home,"user-supplied: Queens Away / UMass Lowell Home; neutral per UMass Lowell recap (Purchase, N.Y.); NOT verified by this audit","diagnostic, no re-selection"

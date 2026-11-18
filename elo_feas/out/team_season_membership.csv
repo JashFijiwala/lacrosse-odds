@@ -1,0 +1,81 @@
+team,rowteam_2022,rowteam_2023,rowteam_2024,rowteam_2025,rowteam_2026,opp_only_2022,opp_only_2023,opp_only_2024,opp_only_2025,opp_only_2026
+Air Force,True,True,True,True,True,False,False,False,False,False
+Army West Point,True,True,True,True,True,False,False,False,False,False
+Bellarmine,True,True,True,True,True,False,False,False,False,False
+Binghamton,True,True,True,True,True,False,False,False,False,False
+Boston U.,True,True,True,True,True,False,False,False,False,False
+Brown,True,True,True,True,True,False,False,False,False,False
+Bryant,True,True,True,True,True,False,False,False,False,False
+Bucknell,True,True,True,True,True,False,False,False,False,False
+Canisius,True,True,True,True,True,False,False,False,False,False
+Cleveland St.,True,True,True,True,True,False,False,False,False,False
+Colgate,True,True,True,True,True,False,False,False,False,False
+Cornell,True,True,True,True,True,False,False,False,False,False
+Dartmouth,True,True,True,True,True,False,False,False,False,False
+Delaware,True,True,True,True,True,False,False,False,False,False
+Denver,True,True,True,True,True,False,False,False,False,False
+Detroit Mercy,True,True,True,True,True,False,False,False,False,False
+Drexel,True,True,True,True,True,False,False,False,False,False
+Duke,True,True,True,True,True,False,False,False,False,False
+Fairfield,True,True,True,True,True,False,False,False,False,False
+Georgetown,True,True,True,True,True,False,False,False,False,False
+Hampton,True,True,True,True,True,False,False,False,False,False
+Harvard,True,True,True,True,True,False,False,False,False,False
+High Point,True,True,True,True,True,False,False,False,False,False
+Hobart,True,False,False,False,True,False,True,True,True,False
+Hofstra,True,True,True,True,True,False,False,False,False,False
+Holy Cross,True,True,True,True,True,False,False,False,False,False
+Iona,False,False,False,False,True,False,False,False,True,False
+Jacksonville,True,True,True,True,True,False,False,False,False,False
+Johns Hopkins,True,True,True,True,True,False,False,False,False,False
+LIU,True,True,True,True,True,False,False,False,False,False
+Lafayette,True,True,True,True,True,False,False,False,False,False
+Le Moyne,False,False,False,False,True,False,False,True,True,False
+Lehigh,True,True,True,True,True,False,False,False,False,False
+Lindenwood,False,True,True,False,False,False,False,False,False,False
+Loyola Maryland,True,True,True,True,True,False,False,False,False,False
+Manhattan,True,True,True,True,True,False,False,False,False,False
+Marist,True,True,True,True,True,False,False,False,False,False
+Marquette,True,True,True,True,True,False,False,False,False,False
+Maryland,True,True,True,True,True,False,False,False,False,False
+Massachusetts,True,True,True,True,True,False,False,False,False,False
+Mercer,True,True,True,True,True,False,False,False,False,False
+Mercyhurst,False,False,False,False,True,False,False,False,True,False
+Merrimack,True,True,True,True,True,False,False,False,False,False
+Michigan,True,True,True,True,True,False,False,False,False,False
+Monmouth,True,True,True,True,True,False,False,False,False,False
+Mount St. Mary's,True,True,True,True,True,False,False,False,False,False
+NJIT,True,True,True,True,True,False,False,False,False,False
+Navy,True,True,True,True,True,False,False,False,False,False
+North Carolina,True,True,True,True,True,False,False,False,False,False
+Notre Dame,True,True,True,True,True,False,False,False,False,False
+Ohio St.,True,True,True,True,True,False,False,False,False,False
+Penn,True,True,True,True,True,False,False,False,False,False
+Penn St.,True,True,True,True,True,False,False,False,False,False
+Princeton,True,True,True,True,True,False,False,False,False,False
+Providence,True,True,True,True,True,False,False,False,False,False
+Queens (NC),False,True,True,True,True,False,False,False,False,False
+Quinnipiac,True,True,True,True,True,False,False,False,False,False
+Richmond,True,True,True,True,True,False,False,False,False,False
+Robert Morris,True,True,True,True,True,False,False,False,False,False
+Rutgers,True,True,True,True,True,False,False,False,False,False
+Sacred Heart,True,True,True,True,True,False,False,False,False,False
+Saint Joseph's,True,True,True,True,True,False,False,False,False,False
+Siena,True,True,True,True,True,False,False,False,False,False
+St. Andrews,False,False,False,False,False,False,True,False,False,False
+St. Bonaventure,True,True,True,True,True,False,False,False,False,False
+St. John's (NY),True,True,True,True,True,False,False,False,False,False
+Stony Brook,True,True,True,True,True,False,False,False,False,False
+Syracuse,True,True,True,True,True,False,False,False,False,False
+Towson,True,True,True,True,True,False,False,False,False,False
+UAlbany,True,True,True,True,True,False,False,False,False,False
+UMBC,True,True,True,True,True,False,False,False,False,False
+UMass Lowell,True,True,True,True,True,False,False,False,False,False
+Utah,True,True,True,True,True,False,False,False,False,False
+VMI,True,True,True,True,True,False,False,False,False,False
+Vermont,True,True,True,True,True,False,False,False,False,False
+Villanova,True,True,True,True,True,False,False,False,False,False
+Virginia,True,True,True,True,True,False,False,False,False,False
+Wabash,False,False,False,False,False,False,True,False,False,False
+Wagner,True,True,True,True,True,False,False,False,False,False
+Yale,True,True,True,True,True,False,False,False,False,False

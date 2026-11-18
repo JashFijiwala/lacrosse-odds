@@ -1,0 +1,42 @@
+{
+  "K": 40.0,
+  "lam": 1.0,
+  "h": 0.0,
+  "R_bar": 1500.0,
+  "table_sha256": "9a25bbd49671e6e890215c0d0a919c68b1e9a5ed0e3413dfae75053cc750bebd",
+  "params_sha256": "6cd0ce93f7c282a7fef83aadae832f72c997405317f658ca1cec70e1264c44ab",
+  "label": "feasibility experiment \u2014 pipeline check, not a research result",
+  "selection_metric": "mean Brier on 2024 games (log loss breaks ties)",
+  "brier_2024": 0.18040613009122858,
+  "log_loss_2024": 0.5399692888059638,
+  "on_grid_edge": true,
+  "edge_reasons": [
+    "K=40.0 is on the grid edge 10/40",
+    "lam=1.0 is on the grid edge 0.5/1.0"
+  ],
+  "grid_K": [
+    10,
+    15,
+    20,
+    30,
+    40
+  ],
+  "grid_lam": [
+    0.5,
+    0.7,
+    0.85,
+    1.0
+  ],
+  "seasons": [
+    2022,
+    2023,
+    2024
+  ],
+  "warmup_season": 2022,
+  "n_games_per_season": {
+    "2022": 543,
+    "2023": 561,
+    "2024": 570
+  },
+  "frozen_at_utc": "2026-11-11T02:44:39+00:00"
+}

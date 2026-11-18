@@ -1,0 +1,6 @@
+odds_pattern,results_name,note
+pennsylvania,Penn,token rename: Pennsylvania -> Penn
+univ,u,abbreviation token: Univ. -> U.
+albany,UAlbany,token rename: Albany -> UAlbany
+mt,mount,abbreviation token: Mt. -> Mount
+st,st,no-op placeholder; state -> st is applied by the PREFIX rule not by this table

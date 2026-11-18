@@ -1,0 +1,10 @@
+season,team,source,games_vs_modeled,net_points_gained_by_modeled_opponents,label
+2023,Hobart,"indep_elo (40,1) on selection_games()",13,62.87725742561961,"diagnostic, no re-selection"
+2023,St. Andrews,"indep_elo (40,1) on selection_games()",1,30.600075359615154,"diagnostic, no re-selection"
+2023,Wabash,"indep_elo (40,1) on selection_games()",1,29.27496986891817,"diagnostic, no re-selection"
+2024,Hobart,"indep_elo (40,1) on selection_games()",12,71.7738015150837,"diagnostic, no re-selection"
+2024,Le Moyne,"indep_elo (40,1) on selection_games()",10,105.35833373661421,"diagnostic, no re-selection"
+2025,Hobart,"recorded predictions.csv columns, K from frozen_params.json",10,68.56944796030058,"diagnostic, no re-selection"
+2025,Iona,"recorded predictions.csv columns, K from frozen_params.json",12,155.31200607468975,"diagnostic, no re-selection"
+2025,Le Moyne,"recorded predictions.csv columns, K from frozen_params.json",10,-38.7629580508564,"diagnostic, no re-selection"
+2025,Mercyhurst,"recorded predictions.csv columns, K from frozen_params.json",10,181.70342289208293,"diagnostic, no re-selection"

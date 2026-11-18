@@ -1,0 +1,5 @@
+files hashed: 145 before, 145 after (previous audit set + audit_out top-level + chunk2/ + chunk3/ + chunk4/ files)
+before vs after: NO DIFFERENCES
+before vs Chunk 4 hashes_after.csv (136 entries): ALL MATCH
+before vs audit_join/protected_hashes.txt (10 entries): ALL MATCH
+guard self-test: write outside audit_out (builtins.open)=PASS; write outside audit_out (pathlib)=PASS; write outside audit_out (os.open)=PASS; read raw 2025 file name=PASS; read raw 2026 file name (pathlib)=PASS; write to audit_out outside chunk5=PASS; write to chunk4 from chunk5=PASS; network call=PASS

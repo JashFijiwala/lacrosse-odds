@@ -1,0 +1,5 @@
+season,teams_in_predictions,teams_in_membership,equal,only_in_predictions,only_in_membership,label
+2022,73,73,True,,,"diagnostic, no re-selection"
+2023,77,77,True,,,"diagnostic, no re-selection"
+2024,76,76,True,,,"diagnostic, no re-selection"
+2025,77,77,True,,,"diagnostic, no re-selection"

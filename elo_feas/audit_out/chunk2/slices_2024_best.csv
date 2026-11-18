@@ -1,0 +1,7 @@
+slice,n,best_K,best_lam,best_brier,brier_at_40_1,monotone_in_K,monotone_in_lam,label
+first half (date < 2024-03-23),279,40,1.0,0.1909193648135799,0.1909193648135799,True,True,"diagnostic, no re-selection"
+second half,291,40,1.0,0.1703264308213453,0.1703264308213453,True,True,"diagnostic, no re-selection"
+both >= 3 prior 2024 games,435,40,1.0,0.1751213810809281,0.1751213810809281,True,True,"diagnostic, no re-selection"
+not both >= 3 prior 2024 games,135,40,1.0,0.1974347657910858,0.1974347657910858,True,True,"diagnostic, no re-selection"
+both >= 8 prior games since 2022,562,40,1.0,0.17922659462221296,0.17922659462221296,True,True,"diagnostic, no re-selection"
+not both >= 8 prior games since 2022,8,40,0.5,0.24483550213663685,0.2632684967895722,False,False,"diagnostic, no re-selection"

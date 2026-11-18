@@ -1,0 +1,65 @@
+[
+  {
+    "group": "pilot",
+    "pytest_args": [
+      "-q",
+      "tests/test_odds_client.py",
+      "tests/test_stage_a.py",
+      "tests/test_stage_b.py",
+      "tests/test_stage_c.py",
+      "tests/test_stage_d.py",
+      "tests/test_normalize.py",
+      "tests/test_analysis.py",
+      "tests/test_costs.py",
+      "-k",
+      "not test_parity_on_saved_anchor_events"
+    ],
+    "returncode": 0,
+    "seconds": 30.594,
+    "stdout": "........................................................................ [ 40%]\n........................................................................ [ 80%]\n....................................                                     [100%]\n180 passed, 1 deselected in 28.74s\n",
+    "stderr": ""
+  },
+  {
+    "group": "join",
+    "pytest_args": [
+      "-q",
+      "--noconftest",
+      "tests/test_join_audit.py",
+      "tests/test_join_revision.py",
+      "-k",
+      "not test_13_golden_four_known_events and not test_14_coverage_reproduction and not test_11_real_four_known_events_run2_path and not test_12_real_flip_invariance_on_run1_primary"
+    ],
+    "returncode": 0,
+    "seconds": 9.031,
+    "stdout": ".........................                                                [100%]\n25 passed, 4 deselected in 7.77s\n",
+    "stderr": ""
+  },
+  {
+    "group": "engine",
+    "pytest_args": [
+      "-q",
+      "--noconftest",
+      "elo_feas/tests/test_elo_engine.py",
+      "-k",
+      "not test_e6_frozen_params_gate and not test_e6_selection_loader_reads_only_2022_2024 and not test_e6_2025_predictions_are_pre_game"
+    ],
+    "returncode": 0,
+    "seconds": 7.234,
+    "stdout": "....................                                                     [100%]\n20 passed, 3 deselected in 5.95s\n",
+    "stderr": ""
+  },
+  {
+    "group": "adapters",
+    "pytest_args": [
+      "-q",
+      "--noconftest",
+      "elo_feas/tests/test_elo_data_layer.py",
+      "-k",
+      "test_t3_longest_prefix or test_t3_word_boundary_and_failures or test_t4_adapter_fails_loudly or test_t5_outcome_column_never_carried or test_t6_synthetic_flip_of_each_pair"
+    ],
+    "returncode": 0,
+    "seconds": 3.188,
+    "stdout": ".....                                                                    [100%]\n5 passed, 8 deselected in 1.90s\n",
+    "stderr": ""
+  }
+]

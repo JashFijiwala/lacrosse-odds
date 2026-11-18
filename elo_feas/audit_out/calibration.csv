@@ -1,0 +1,4 @@
+season,n,mean_p_fav,favourite_win_rate,fav_rate_minus_mean_p,calibration_slope,slope_ci95_lo,slope_ci95_hi,reading,label
+2023,561,0.6460515482762066,0.7023172905525846,0.05626574227637804,1.4854559712634647,1.2272085235034225,1.8186250907759796,slope > 1: forecasts too close to 0.5; slope < 1: too extreme,"diagnostic, no re-selection"
+2024,570,0.6711624900241643,0.7315789473684211,0.060416457344256824,1.5708244674256473,1.318883179900076,1.8748776245227208,slope > 1: forecasts too close to 0.5; slope < 1: too extreme,"diagnostic, no re-selection"
+2025,409,0.6861635052362204,0.726161369193154,0.03999786395693361,1.225532147839036,0.9800941041623725,1.5398080764701887,slope > 1: forecasts too close to 0.5; slope < 1: too extreme,"diagnostic, no re-selection"

@@ -1,0 +1,6 @@
+bin,n,p_fav_min,p_fav_max,mean_predicted,observed_rate,label
+1,82,0.5001949021746432,0.5693939498716216,0.5334604875808626,0.573170731707317,"feasibility experiment — pipeline check, not a research result"
+2,82,0.5694159885786896,0.642232513124545,0.6076661145488669,0.6219512195121951,"feasibility experiment — pipeline check, not a research result"
+3,82,0.6422745081231983,0.7094647809478354,0.6768266965635084,0.7560975609756098,"feasibility experiment — pipeline check, not a research result"
+4,82,0.7097569392372658,0.7985996163924337,0.7522499233472518,0.7804878048780488,"feasibility experiment — pipeline check, not a research result"
+5,81,0.8013444476857101,0.9615927421994687,0.8627680177073335,0.9012345679012346,"feasibility experiment — pipeline check, not a research result"

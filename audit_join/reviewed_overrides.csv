@@ -1,0 +1,5 @@
+odds_name,results_regex,identity_note,review_status
+Army Knights,^Army,"Army West Point (U.S. Military Academy), the Black Knights",PROPOSED_PENDING_HUMAN_REVIEW
+Loyola (MD) Greyhounds,^Loyola,Loyola University Maryland Greyhounds,PROPOSED_PENDING_HUMAN_REVIEW
+Queens University Royals,^Queens,Queens University of Charlotte (NC) Royals,PROPOSED_PENDING_HUMAN_REVIEW
+St. John's Red Storm,^St\.? John,St. John's University (NY) Red Storm,PROPOSED_PENDING_HUMAN_REVIEW

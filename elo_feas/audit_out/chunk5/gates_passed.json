@@ -1,0 +1,32 @@
+{
+  "amendment": "A1",
+  "epsilon": 1e-06,
+  "epsilon_source": "Log-loss clipping epsilon read as text from elo_feas/metrics.py line 11: EPS = 1e-06 (file read, not imported).",
+  "gates": {
+    "G1": "PASS",
+    "G2": "PASS",
+    "G3": "PASS",
+    "G4": "PASS",
+    "G5": "PASS",
+    "G6": "PASS",
+    "G7": "PASS",
+    "G8": "PASS",
+    "G9": "PASS"
+  },
+  "input_sha256": {
+    "canonical_games_2022_2026.csv": "afb5fa21c6618e78fb02f5ba9728ca3d12f46a5bfe6c423ca3442c91ed8fe68d",
+    "compare.py": "5e0b513dc5eaef63d29eb8d847231223042b8698253ff54de7a40bc9c89268f9",
+    "event_game_links.csv": "ac5efbdb351532d2a2160547221234c8f87039c669bcb215b688c6feff63df09",
+    "frozen_params.json": "f25db522778288cd66ef71a2c9dd5217e3aba0c9d49e38e1305114acde4cdf95",
+    "gates.py": "3c2e5ea1d7d3b43fd9116f31a06a4ac9258364b669719f607ec709200a1db58e",
+    "market_comparison_spec_v2.1.1.md": "9d7f7b8abb6a41aa2278ab68434b22b473747af177cc8b0a4a997e1c46481221",
+    "metrics.py (epsilon source)": "a4dadfeed7ef6e535152e444afddd1af42d4f4a95a2c0241fc9809d3aab1cc30",
+    "predictions.csv": "70cc70ed6bf8b8f1811a1bd7445793cb2db071dfef6704b1027f7d296618b592",
+    "team_keyed_moneyline.csv": "0aa1db803b6c26065321e1548f8fd0f94ca2c1d99922985560d184a66e1a7d22",
+    "test_2025_run.json": "739f5ef9d6ab21fd00be69111e92e1d3a2298a6e9ad34ead5a1ff1de2bf86f06",
+    "timing_events.csv": "2dc210b8c94eb89847c189015bb4a2d47d2063c156658e619f4446cd0bb00e8a"
+  },
+  "selected_57_rows_sha256": "a329b504aed345a283ec001fdd8e6705ebcfd3bbcba331dc9802c3fe0dd8191e",
+  "spec_file": "market_comparison_spec_v2.1.1.md",
+  "spec_sha256": "9d7f7b8abb6a41aa2278ab68434b22b473747af177cc8b0a4a997e1c46481221"
+}

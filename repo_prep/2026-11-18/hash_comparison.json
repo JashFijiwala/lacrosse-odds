@@ -1,0 +1,21 @@
+{
+  "before_count": 194,
+  "after_count": 194,
+  "unchanged_count": 194,
+  "missing": [],
+  "changed": [],
+  "categories": {
+    "AGENTS.md": 1,
+    "CLAUDE.md": 1,
+    "pytest.ini": 1,
+    "requirements.txt": 1,
+    "audit_join": 30,
+    "docs": 1,
+    "elo_feas": 129,
+    "pilot": 5,
+    "src": 13,
+    "tests": 12
+  },
+  "passed": true,
+  "scope": "All src, audit_join, elo_feas and tests files present before preparation, ledger/Cradl/config and locked root instruction/design/dependency files. No .env or upstream raw results opened."
+}

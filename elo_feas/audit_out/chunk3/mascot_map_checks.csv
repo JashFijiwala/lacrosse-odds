@@ -1,0 +1,12 @@
+check,result,label
+row count,147,"diagnostic, no re-selection"
+seasons present in map,"2022,2023","diagnostic, no re-selection"
+rows for seasons >= 2024 (strip must not apply),0,"diagnostic, no re-selection"
+rows where original == stripped,0,"diagnostic, no re-selection"
+rows with n_candidate_prefixes > 1,2,"diagnostic, no re-selection"
+raw names mapping to several canonicals (across seasons),0,"diagnostic, no re-selection"
+canonicals reached from several raw names (same season),0,"diagnostic, no re-selection"
+"duplicate (season, original) rows",0,"diagnostic, no re-selection"
+2022: stripped set == row-team names in membership,True,"diagnostic, no re-selection"
+2023: stripped set == row-team names in membership,True,"diagnostic, no re-selection"
+all stripped names exist in canonical name set,True,"diagnostic, no re-selection"

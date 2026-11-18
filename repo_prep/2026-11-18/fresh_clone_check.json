@@ -1,0 +1,27 @@
+{
+  "method": "Candidate-only temporary copy, no Git operations, using existing verified virtual environment; not a fresh dependency installation.",
+  "candidate_files_copied": 181,
+  "checks": [
+    {
+      "command": ".\\.venv\\Scripts\\python.exe -B tools\\repository_checks.py",
+      "returncode": 0,
+      "stdout": "{\n  \"python\": \"3.10.9\",\n  \"errors\": [],\n  \"secret_findings\": [],\n  \"local_path_findings\": [],\n  \"links_checked\": 112,\n  \"immutable_present\": 152,\n  \"immutable_changed\": [],\n  \"candidate_bytes\": 2580420,\n  \"candidate_count\": 181,\n  \"protected_code_checked\": 10,\n  \"input_presence_only\": {\n    \"pilot/raw\": false,\n    \"pilot/normalized\": false,\n    \"pilot/ledger/credit_ledger.csv\": false,\n    \"external/NCAALacrosseData/data/ncaa_mens_lacrosse_matchstats_2022.csv\": false,\n    \"external/NCAALacrosseData/data/ncaa_mens_lacrosse_matchstats_2023.csv\": false,\n    \"external/NCAALacrosseData/data/ncaa_mens_lacrosse_matchstats_2024.csv\": false,\n    \"external/NCAALacrosseData/data/ncaa_mens_lacrosse_matchstats_2025.csv\": false,\n    \"external/NCAALacrosseData/data/ncaa_mens_lacrosse_matchstats_2026.csv\": false\n  },\n  \"candidate_files_over_50_MiB\": [],\n  \"passed\": true\n}\nAvailable immutable hashes checked: 152; absent: 42; imports: 20.\n",
+      "stderr": ""
+    },
+    {
+      "command": ".\\.venv\\Scripts\\python.exe -B tools\\offline_tests.py",
+      "returncode": 0,
+      "stdout": "[pilot]\n........................................................................ [ 40%]\n........................................................................ [ 80%]\n....................................                                     [100%]\n180 passed, 1 deselected in 28.53s\n[join]\n.........................                                                [100%]\n25 passed, 4 deselected in 5.02s\n[engine]\n....................                                                     [100%]\n20 passed, 3 deselected in 5.55s\n[adapters]\n.....                                                                    [100%]\n5 passed, 8 deselected in 1.87s\n",
+      "stderr": ""
+    }
+  ],
+  "private_paths_absent": {
+    ".env": true,
+    ".venv": true,
+    "pilot/raw": true,
+    "pilot/normalized": true,
+    "pilot/ledger": true,
+    "external": true
+  },
+  "passed": true
+}

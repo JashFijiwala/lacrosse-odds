@@ -1,0 +1,4 @@
+name_a,name_b,norm_a,norm_b,reason,seasons_a,seasons_b,label
+Iona,Siena,iona,siena,edit distance 2,"2025,2026","2022,2023,2024,2025,2026","diagnostic, no re-selection"
+Loyola Maryland,Maryland,loyola maryland,maryland,token subset,"2022,2023,2024,2025,2026","2022,2023,2024,2025,2026","diagnostic, no re-selection"
+Penn,Penn St.,penn,penn st,token subset,"2022,2023,2024,2025,2026","2022,2023,2024,2025,2026","diagnostic, no re-selection"

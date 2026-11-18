@@ -1,0 +1,19 @@
+# Pilot configuration for The Odds API historical endpoints, NCAA men's lacrosse.
+# credit_cap is also hard-limited to 500 in src/odds_client.py (HARD_CAP).
+sport_key: lacrosse_ncaa
+base_url: https://api.the-odds-api.com
+credit_cap: 500
+regions: us
+markets: h2h,spreads,totals
+oddsFormat: american
+dateFormat: iso
+
+# Stage budgets in credits. They sum to credit_cap.
+# RESERVE is not a stage; it is drawn on only with request(..., use_reserve=True).
+stage_budgets:
+  A: 20
+  B: 80
+  C: 240
+  D: 60
+  E: 30
+  RESERVE: 70

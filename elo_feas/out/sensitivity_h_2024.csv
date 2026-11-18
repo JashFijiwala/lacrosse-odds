@@ -1,0 +1,5 @@
+role,K,lam,h,n_2024,brier_2024,log_loss_2024,brier_2024_two_sided,log_loss_2024_two_sided,label
+SENSITIVITY (not used for selection),40.0,1.0,0,570,0.18040613009122858,0.5399692888059638,0.180083853979627,0.5392900132027526,"feasibility experiment — pipeline check, not a research result"
+SENSITIVITY (not used for selection),40.0,1.0,25,570,0.17979089355150182,0.5387884372645142,0.1794317209472185,0.5380222943096382,"feasibility experiment — pipeline check, not a research result"
+SENSITIVITY (not used for selection),40.0,1.0,50,570,0.1810862226641768,0.5415395826695927,0.18075929174687716,0.5408295891150869,"feasibility experiment — pipeline check, not a research result"
+SENSITIVITY (not used for selection),40.0,1.0,75,570,0.18420947206359334,0.5481605541093199,0.18398092240901714,0.54764798410933,"feasibility experiment — pipeline check, not a research result"

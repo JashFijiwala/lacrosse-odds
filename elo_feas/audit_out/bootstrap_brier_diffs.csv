@@ -1,0 +1,11 @@
+comparison,season,subset,n,mean_diff,ci95_lo,ci95_hi,note,label
+"Elo(K=40,lam=1) minus constant 0.5, Brier",2023,ALL,561,-0.05098342263535617,-0.06212968634593646,-0.03837614157913935,in-sample for K/lam,"diagnostic, no re-selection"
+"Elo(K=40,lam=1) minus constant 0.5, Brier",2023,TWO_SIDED,546,-0.05244336731934329,-0.06306995728522027,-0.040547676007092484,in-sample for K/lam,"diagnostic, no re-selection"
+"Elo(K=40,lam=1) minus constant 0.5, Brier",2024,ALL,570,-0.06959386990877142,-0.08122468874182688,-0.05706678060742408,in-sample for K/lam,"diagnostic, no re-selection"
+"Elo(K=40,lam=1) minus constant 0.5, Brier",2024,TWO_SIDED,548,-0.069916146020373,-0.08263874534623,-0.05813159360890065,in-sample for K/lam,"diagnostic, no re-selection"
+"Elo(K=40,lam=1) minus constant 0.5, Brier",2025,ALL,409,-0.0625511288472478,-0.07775389655212087,-0.04564744914017951,"out of sample (predictions.csv, not rerun)","diagnostic, no re-selection"
+"Elo(K=40,lam=1) minus constant 0.5, Brier",2025,TWO_SIDED,367,-0.06396338307386411,-0.08105171793205782,-0.04665784044990467,"out of sample (predictions.csv, not rerun)","diagnostic, no re-selection"
+"K=40,lam=1 minus K=40,lam=0.85, Brier",2024,ALL,570,-0.00405571534655604,-0.005710814834266147,-0.0023502121851633425,selection season (in-sample); recomputed on selection_games(),"diagnostic, no re-selection"
+"K=40,lam=1 minus K=30,lam=1, Brier",2024,ALL,570,-0.006577199528678336,-0.008285310724572227,-0.004825180977398055,selection season (in-sample); recomputed on selection_games(),"diagnostic, no re-selection"
+"K=40,lam=1 minus K=40,lam=0.7, Brier",2024,ALL,570,-0.00934998606017374,-0.01271925954802021,-0.006064522800221124,selection season (in-sample); recomputed on selection_games(),"diagnostic, no re-selection"
+"K=40,lam=1 minus K=30,lam=0.85, Brier",2024,ALL,570,-0.010813600469893953,-0.013568394093320764,-0.008073920052310477,selection season (in-sample); recomputed on selection_games(),"diagnostic, no re-selection"

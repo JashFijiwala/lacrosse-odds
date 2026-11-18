@@ -1,0 +1,10 @@
+tier,stratum,pool_size,rows,label
+1,2025 Away/Away (all),9,9,"diagnostic, no re-selection"
+1,2025 Home/Home (all),1,1,"diagnostic, no re-selection"
+1,2026 Home/Home (all),16,16,"diagnostic, no re-selection"
+1,2024 Away/Away (random 20),46,20,"diagnostic, no re-selection"
+1,2024 Home/Away control (random 20),247,20,"diagnostic, no re-selection"
+2,2022 Away/Away (random 10),33,10,"diagnostic, no re-selection"
+2,2022 Home/Away control (random 10),243,10,"diagnostic, no re-selection"
+2,2023 Away/Away (random 10),38,10,"diagnostic, no re-selection"
+2,2023 Home/Away control (random 10),241,10,"diagnostic, no re-selection"

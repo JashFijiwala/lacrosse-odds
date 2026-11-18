@@ -1,0 +1,10 @@
+season,team,games,share_of_season_games,games_vs_modeled,W_vs_modeled,L_vs_modeled,mean_margin_vs_modeled,distinct_opponents,games_vs_non_modeled,single_sided_games,label
+2023,Hobart,13,0.023172905525846704,13,5,8,-1.1538461538461537,13,0,13,"diagnostic, no re-selection"
+2023,St. Andrews,1,0.0017825311942959,1,0,1,-12.0,1,0,1,"diagnostic, no re-selection"
+2023,Wabash,1,0.0017825311942959,1,0,1,-12.0,1,0,1,"diagnostic, no re-selection"
+2024,Hobart,12,0.021052631578947368,12,3,9,-4.25,12,0,12,"diagnostic, no re-selection"
+2024,Le Moyne,10,0.017543859649122806,10,3,7,-2.3,10,0,10,"diagnostic, no re-selection"
+2025,Hobart,10,0.02444987775061125,10,2,8,-4.8,10,0,10,"diagnostic, no re-selection"
+2025,Iona,12,0.029339853300733496,12,2,10,-8.333333333333334,12,0,12,"diagnostic, no re-selection"
+2025,Le Moyne,10,0.02444987775061125,10,7,3,0.1,10,0,10,"diagnostic, no re-selection"
+2025,Mercyhurst,10,0.02444987775061125,10,1,9,-4.6,10,0,10,"diagnostic, no re-selection"

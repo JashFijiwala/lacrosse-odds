@@ -1,0 +1,11 @@
+transition,kind,team,games_prior,games_this,row_team_prior,first_season_seen,label
+2022->2023,"games in this season, none in prior",Lindenwood,0,12,False,2023,"diagnostic, no re-selection"
+2022->2023,"games in this season, none in prior",Queens (NC),0,14,False,2023,"diagnostic, no re-selection"
+2022->2023,"games in this season, none in prior",St. Andrews,0,1,False,2023,"diagnostic, no re-selection"
+2022->2023,"games in this season, none in prior",Wabash,0,1,False,2023,"diagnostic, no re-selection"
+2023->2024,"games in prior season, none in this one",St. Andrews,1,0,False,2023,"diagnostic, no re-selection"
+2023->2024,"games in prior season, none in this one",Wabash,1,0,False,2023,"diagnostic, no re-selection"
+2023->2024,"games in this season, none in prior",Le Moyne,0,10,False,2024,"diagnostic, no re-selection"
+2024->2025,"games in prior season, none in this one",Lindenwood,12,0,True,2023,"diagnostic, no re-selection"
+2024->2025,"games in this season, none in prior",Iona,0,12,False,2025,"diagnostic, no re-selection"
+2024->2025,"games in this season, none in prior",Mercyhurst,0,10,False,2025,"diagnostic, no re-selection"

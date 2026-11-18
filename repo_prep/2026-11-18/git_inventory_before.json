@@ -1,0 +1,76 @@
+{
+  "branch": "master",
+  "tracked_count": 0,
+  "staged_count": 0,
+  "refs": [
+    "refs/codex/turn-diffs/captures/1795039733931/74a78bfb-2ce2-4769-9b8d-fdb1b7bb4be6/base",
+    "refs/codex/turn-diffs/checkpoints/5fad37f6f64d64e56716b552fd17e59e/fd8a7654e605c184c13e1c5fee9b0339/1795039471308/f772efac-15f4-4ff2-86cb-8952216bea87"
+  ],
+  "reachable_commit_count": "0",
+  "remotes": [],
+  "history_command_returncode": 0,
+  "workspace_file_count_excluding_environment_and_caches": 329,
+  "immutable_file_count": 194,
+  "largest_files": [
+    {
+      "path": "external/NCAALacrosseData/archive/lacrosse.db",
+      "bytes": 1134592
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_mens_lacrosse_playerstats_2022.csv",
+      "bytes": 586772
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_womens_lacrosse_playerstats_2025.csv",
+      "bytes": 527375
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_mens_lacrosse_playerstats_2021.csv",
+      "bytes": 517229
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_womens_lacrosse_playerstats_2026.csv",
+      "bytes": 507943
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_mens_lacrosse_playerstats_2020.csv",
+      "bytes": 502323
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_womens_lacrosse_playerstats_2024.csv",
+      "bytes": 492915
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_womens_lacrosse_playerstats_2023.csv",
+      "bytes": 458920
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_womens_lacrosse_playerstats_2022.csv",
+      "bytes": 439521
+    },
+    {
+      "path": "elo_feas/out/predictions.csv",
+      "bytes": 424659
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_mens_lacrosse_playerstats_2023.csv",
+      "bytes": 424049
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_womens_lacrosse_playerstats_2021.csv",
+      "bytes": 386615
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_womens_lacrosse_matchstats_2025.csv",
+      "bytes": 381228
+    },
+    {
+      "path": "pilot/normalized/margins.csv",
+      "bytes": 368200
+    },
+    {
+      "path": "external/NCAALacrosseData/data/ncaa_womens_lacrosse_playerstats_2019.csv",
+      "bytes": 356747
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+criterion,argmin_K,argmin_lam,value,same_as_frozen,label
+brier_2024,40,1.0,0.1804061300912285,True,"diagnostic, no re-selection"
+log_loss_2024,40,1.0,0.5399692888059638,True,"diagnostic, no re-selection"
+brier_2024_two_sided,40,1.0,0.180083853979627,True,"diagnostic, no re-selection"
+log_loss_2024_two_sided,40,1.0,0.5392900132027526,True,"diagnostic, no re-selection"
+brier_2023,40,1.0,0.1990165773646438,True,"diagnostic, no re-selection"
+log_loss_2023,40,1.0,0.5838791306225378,True,"diagnostic, no re-selection"

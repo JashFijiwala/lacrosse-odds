@@ -1,0 +1,13 @@
+# Preserve original bytes so frozen research SHA256 records survive Git checkout.
+# These paths must not undergo automatic CRLF/LF normalization.
+/src/** -text
+/audit_join/** -text
+/elo_feas/** -text
+/tests/** -text
+/pilot/config/pilot.yaml -text
+/docs/PILOT_DESIGN.md -text
+/AGENTS.md -text
+/CLAUDE.md -text
+/requirements.txt -text
+/pytest.ini -text
+/repo_prep/** -text

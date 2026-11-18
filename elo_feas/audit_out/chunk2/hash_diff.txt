@@ -1,0 +1,6 @@
+files hashed: 80 before, 80 after (previous audit set + elo_feas/audit_out/ top-level files)
+before vs after: NO DIFFERENCES
+before vs previous audit hashes_after.csv (62 entries): ALL MATCH
+before vs audit_join/protected_hashes.txt (10 entries): ALL MATCH
+guard self-test: write outside audit_out (builtins.open)=PASS; write outside audit_out (pathlib)=PASS; write outside audit_out (os.open)=PASS; read raw 2025 file name=PASS; read raw 2026 file name (pathlib)=PASS; write to audit_out outside chunk2=PASS
+indep_elo import loaded elo_feas.elo: False; indep_elo.py source references elo_feas: False
